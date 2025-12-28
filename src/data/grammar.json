@@ -1,0 +1,2718 @@
+[
+  {
+    "id": 1,
+    "pattern": "～ことにする～",
+    "meaning": "Quyết định làm (không làm) gì đó",
+    "explanation": "Dùng thể hiện ý chủ động quyết định sẽ làm / không làm gì của người nói",
+    "examples": [
+      {
+        "vietnamese": "Ta quyết định là sẽ chạy bộ từ ngày mai nhé",
+        "japanese": "明日からジョギングすることにしよう。"
+      },
+      {
+        "vietnamese": "Từ nay về sau, ta nên ăn kiêng, không nên ăn nhiều đồ ngọt",
+        "japanese": "これからはあまり甘い物はたべないことにしよう"
+      },
+      {
+        "vietnamese": "Hôm nay tôi nhất quyết sẽ học, không đi đâu cả.",
+        "japanese": "今日はどこへも行かないで勉強することにしたよ。"
+      }
+    ],
+    "notes": "Mẫu này thể hiện ý chí chủ động của người nói nên không thể dùng những động từ thể khả năng hoặc động từ ý khả năng.\nNgoài ra khi quyết định chọn một sự vật gì cũng có thể dùng như sau:\nNだ＋にする"
+  },
+  {
+    "id": 2,
+    "pattern": "～ばいいのに～",
+    "meaning": "Giá mà, ước chi, đáng lẽ nên",
+    "explanation": "Dùng khi biểu hiện cảm xúc mong muốn, tiếc nuối hoặc khuyên nhủ (ngược lại với hành động người khác đang làm)",
+    "examples": [
+      {
+        "vietnamese": "Ước gì anh ấy có ở đây để giúp tôi」",
+        "japanese": "彼はここにいて、私を助けてくれればいいのに。"
+      },
+      {
+        "vietnamese": "Ước gì tôi có nhiều tiền",
+        "japanese": "たくさんお金があればいいのに。"
+      },
+      {
+        "vietnamese": "Đáng lẽ tôi nên học nhiều hơn thế nữa",
+        "japanese": "もっと勉強すればいいのに。"
+      }
+    ],
+    "notes": "Mẫu câu này thường dùng để thể hiện cảm xúc của người nói và kết thúc câu sẽ làばいいのに , hoặc chỉ thêm một vài từ cảm thán như なあ\nGiá mà tôi là giáo viên\n私が教師であればいいのになあ\nVới danh từ thì chuyển đổi như sau:\nNでいればいいのに"
+  },
+  {
+    "id": 3,
+    "pattern": "～なかなか～ ない",
+    "meaning": "Khó mà làm gì, không (như thế nào)",
+    "explanation": "Dùng khi thể hiện hành động mà chủ thể khó thực hiện được, thực hiện một cách vất vả\nDùng trong trường hợp không như thế nào ( trường hơp tự động từ) để biểu hiện tình hình không tốt lên.",
+    "examples": [
+      {
+        "vietnamese": "Bệnh của mẹ tôi vẫn không khỏi",
+        "japanese": "母の病気はなかなか治らない"
+      },
+      {
+        "vietnamese": "Tôi khó mà khiêng được hàng như thế này",
+        "japanese": "こんなに荷物がなかなか運ばない"
+      },
+      {
+        "vietnamese": "Không dễ làm sushi đâu",
+        "japanese": "寿司はなかなか作れない"
+      }
+    ],
+    "notes": "Dùng động từ không chia ở thể khả năng thì khi dùng trong mẫu câu này vẫn có thể mang nghĩa là “không dễ mà làm được”, “khó có thể làm được”\nTôi không thể đọc được kanji / tôi khó mà đọc được kanji\n私には漢字がなかなか読まない"
+  },
+  {
+    "id": 4,
+    "pattern": "～しか～ ない",
+    "meaning": "Chỉ có cách là, đành phải, chỉ làm gì, chỉ có",
+    "explanation": "Dùng khi thể hiện nhận thức là không còn lựa chọn nào khác, không còn phương pháp nào khác ngoài cách đó.\nDùng khi nói đến một việc chủ thể chỉ hành động nào đó, ngoài ra không làm hành động nào khác, hoặc chỉ có một trạng thái / tính chất nào đó",
+    "examples": [
+      {
+        "vietnamese": "Những chuyện như thế này thì chỉ còn cách là nói với bạn bè mà thôi",
+        "japanese": "こんなことは友達にしか話せません。"
+      },
+      {
+        "vietnamese": "Ông ấy chỉ ăn những đồ ăn làm từ nguyên liệu tự nhiên",
+        "japanese": "彼は自然のものだけしか食べない。"
+      },
+      {
+        "vietnamese": "Tôi chỉ rãnh vào thứ hai, không biết chúng ta có thể sắp đặt, chuẩn bị vào hôm đó không?",
+        "japanese": "月曜しか空いている日はないんで、打ち合わせはその日にしてもらえませんか"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "pattern": "～わけです～",
+    "meaning": "Đương nhiên là, tức là, cuối cùng cũng là, là",
+    "explanation": "Dùng trong trường hợp biểu thị ý muốn nói một việc trở nên như thế là đương nhiên vì đã có nguyên nhân, lý do trước đó.\nDùng trong trường hợp khi muốn nói rằng đương nhiên sẽ có kết quả như thế vì đi theo trình tự, hướng đi, sự thật, tình huống nào đó.",
+    "examples": [
+      {
+        "vietnamese": "Vì Nhật chênh 8 tiếng đồng hồ so với Anh, nên nếu ở Nhật là 11h thì ở Anh là 3h",
+        "japanese": "イギリスとは時差が8時間あるから、日本が11時ならイギリスは3時なわけです。"
+      },
+      {
+        "vietnamese": "Cố ấy đã làm việc bên Nhật 3 năm, vì vậy biết khá tường tận về tình hình bên Nhật",
+        "japanese": "彼女は日本で3年間働いていたので、日本の事情にかなり詳しいわけである。"
+      }
+    ],
+    "notes": "Trước hay sau わけだ thường luôn có một vế biểu thị lý do, nguyên nhân hoặc trình tự"
+  },
+  {
+    "id": 6,
+    "pattern": "～にあたる～",
+    "meaning": "Tương ứng với, tức là, trùng với, trong, tại",
+    "explanation": "Dùng khi thể hiện một sự vật / sự việc tương ứng, giống với, trùng với hoặc tương đương với một sự vật / sự việc khác\nDùng thể hiện một cách nghiêm trang một tình huống, dịp, thời điểm đặc biệt nào đó",
+    "examples": [
+      {
+        "vietnamese": "1km tương đương 1000 mét",
+        "japanese": "１キロは１000メートルに当たる。"
+      },
+      {
+        "vietnamese": "Năm nay tết trùng vào chủ nhật",
+        "japanese": "今日はテトは日曜日にあたる。"
+      },
+      {
+        "vietnamese": "Chỉ tay vào người khác là thất lễ đó",
+        "japanese": "他人を指さづのは失礼にあたる。"
+      }
+    ],
+    "notes": "Thường dùng trong trường hợp định nghĩa, giải thích."
+  },
+  {
+    "id": 7,
+    "pattern": "～いがいの～ （以外の）",
+    "meaning": "Ngoài ra…thì, khác",
+    "explanation": "Dùng để diễn đạt ngoài ý đang nói đến thì còn tồn tại những cái khác nữa\nDùng để biểu thị một điều, việc khác",
+    "examples": [
+      {
+        "vietnamese": "Ngoài cuốn này ra còn cuốn từ điển nào tốt hơn không",
+        "japanese": "この以外で／にもっといい辞書はありませんか。"
+      },
+      {
+        "vietnamese": "Ngoài tiếng Nhật ra thì anh ấy hoàn toàn không biết tiếng nước ngoài",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "かれは日本語以外の外国語は全く知らない。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Ngoài tôi ra thì ai cũng biết chuyện đó",
+        "japanese": "私以外の誰もがそれを知っています。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "pattern": "～というわけではない～",
+    "meaning": "Không có nghĩa là~",
+    "explanation": "Nhà hàng này lúc nào cũng đông khách, nhưng điều đó không có nghĩa là đặc biệt ngon\nこのレストランはいつも満員だが、だからといって特においしいというわけではない。\nHôm nay tôi không thích đi học. Không hẳn là vì trời mưa mà do tôi không muốn đi\n今日は学校へ行く気がしない。雨だから行きたくないというわけではない。\nNgày mai đi xem phim không:\n明日映画に行かない\nNgày mai ha? Ừ …..m\n明日、か。うーん。\nNghĩa là bạn không thích đi với tôi hả?\n私とじゃいやだってこと?\nKhông phải là không thích, nhưng mà…\nいや、いや（だ）ってわけじゃないんだけど。。。",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "pattern": "～なるべく～",
+    "meaning": "Cố gắng, cố sức",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Tối nay ráng về sớm hơn một chút nhé",
+        "japanese": "今晩はなるべく早めに帰ってきて下さいね。"
+      },
+      {
+        "vietnamese": "Vì mặt hàng này dễ hỏng, nên hãy chú ý hết sức khi sử lý nhé",
+        "japanese": "この品物は壊れやすいから、なるべく注意して取り扱ってくださいね。"
+      },
+      {
+        "vietnamese": "Tôi muốn càng có nhiều người càng tốt tham gia vào hoạt động này.",
+        "japanese": "この活動には、なるべく多くの人に参加してもらいたい。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "pattern": "～べつに～ない（別に～ ない）",
+    "meaning": "Không hề …",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Không có gì thay đổi đặc biệt",
+        "japanese": "別に変わったことは何もない。"
+      },
+      {
+        "vietnamese": "Không có anh thì tôi cũng không đến nỗi khó khăn đâu",
+        "japanese": "あなたなんかいなくても、別に困らないわ。"
+      },
+      {
+        "vietnamese": "Tôi cũng không muốn đi dự tiệc của công ty lắm, nhưng do không tìm ra lý do từ chối hợp lý, nên tôi đành phải đi.",
+        "japanese": "会社の宴会など別に行きたくはないが、断わる適当な理由も見つからないので、しかたなく行くことにした。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "pattern": "～たしか（～ 確か）",
+    "meaning": "Chắc chắn là….",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Chắc chắn là tôi đã đọc cuốn sách này rồi",
+        "japanese": "たしかこの本は読みました"
+      },
+      {
+        "vietnamese": "Không thể nhớ kỹ nhưng tôi chắc chắn là thứ hai tuần tới",
+        "japanese": "よく覚えていないのですがたしか来週の月曜日だと思います。"
+      },
+      {
+        "vietnamese": "Chắc chắn là tôi để chìa khóa trên bàｎ",
+        "japanese": "テーブルの上にかぎをたしか置いていました。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "pattern": "～なんといっても（～ 何といっても）",
+    "meaning": "Dù thế nào thì…",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Dù nói thế nào thì cô ấy cũng đã sai",
+        "japanese": "何といっても彼女が間違っておりました。"
+      },
+      {
+        "vietnamese": "Dù nói thế nào đi nữa thì Nhật bản là nước nhiều động đất",
+        "japanese": "何といっても日本は地震がたくさんあります。"
+      },
+      {
+        "vietnamese": "Dù thế nào thì Trung Quốc cũng là nước đông dân",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "何といっても中国は人口が多い",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "pattern": "～といっても（～ と言っても）",
+    "meaning": "Nói như thế nhưng mà..",
+    "explanation": "Từ những việc được kỳ vọng như trình bày vế trước nhưng thực tế không ở mức độ như thế…",
+    "examples": [
+      {
+        "vietnamese": "Tôi đã tìm được việc làm thêm mới. Nói thế chứ cũng là công việc làm thay cho người bạn có một tuần thôi",
+        "japanese": "新しいアルバイトが見つかった。といっても、友達の代わりに一週間働くだけだ。"
+      },
+      {
+        "vietnamese": "Nói là đi Nhật nhưng thật ra chỉ ở đó có một ngày mà thôi",
+        "japanese": "日本へ行ったといっても、実際は一日滞在しただけです。"
+      },
+      {
+        "vietnamese": "Nói là tuyết rơi nhưng cũng rơi một tí xíu rồi tan ngay.",
+        "japanese": "降ったといっても、ほんの少しで、すぐ消えてしまいました。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "pattern": "～にきをつける（～ に気をつける）",
+    "meaning": "Cẩn thận, thận trọng, để ý…",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Trong Công việc Xin hãy chú ý",
+        "japanese": "仕事に気をつけてください"
+      },
+      {
+        "vietnamese": "Phải cẩn thận để có sức khỏe tốt",
+        "japanese": "健康であるように気をつけるべきです"
+      },
+      {
+        "vietnamese": "Phải cẩn thận khi lái xe",
+        "japanese": "運転に気をつける"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "pattern": "～ない（碌に～ ない）",
+    "meaning": "Không …. Một chút gì",
+    "explanation": "Diễn tả sự việc phủ định hoàn toàn",
+    "examples": [
+      {
+        "vietnamese": "Ngày thi cận kề rồi, vậy mà cô bé đó hầu như không học hành gì cả",
+        "japanese": "テストも近いというのに、あの子ったらろくに勉強もしないんだから。"
+      },
+      {
+        "vietnamese": "Cố ấy cả ngày hôm nay không ăn gì cả",
+        "japanese": "彼女は今日ろくに何にも食べなかった。"
+      },
+      {
+        "vietnamese": "Đã cất công đến biển vậy mà cô ấy không gì cả, chỉ toàn phơi nắng mà thôi.",
+        "japanese": "せっかく海に来たというのに、彼女はろくに泳ぎもしないで肌を焼いてばかりいた。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "pattern": "～せいか～",
+    "meaning": "Có lẽ vì…",
+    "explanation": "Diễn tả tình trạng không thể nói rõ nhưng là nguyên nhân của việc phát sinh đó.",
+    "examples": [
+      {
+        "vietnamese": "Chắc là do trời đã sang xuân hay sao mà ngủ bao nhiêu vẫn cảm thấy buồn ngủ, chịu không nổi",
+        "japanese": "春になったせいでしょうか、いくら寝ても眠くてたまりません。"
+      },
+      {
+        "vietnamese": "Chắc là do tuổi tác chăng, dạo này tôi hơi mệt",
+        "japanese": "年のせいか、この頃疲れやすい。"
+      },
+      {
+        "vietnamese": "Chắc là do đến tuổi dậy thì mà cô ấy đẹp hẳn ra",
+        "japanese": "年頃になってせいか、彼女は一段ときれいになった。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "pattern": "～にこしたことはない（～ に越したことはない",
+    "meaning": "Nên phải, tốt hơn",
+    "explanation": "Diễn tả chuyện xảy ra là đương nhiên, mang tính bình thường",
+    "examples": [
+      {
+        "vietnamese": "Không gì bằng thân thể được khỏe mạnh",
+        "japanese": "体はじょうぶにこしたことはない。"
+      },
+      {
+        "vietnamese": "Tiền bạc, có vẫn tốt hơn",
+        "japanese": "お金はあるにこしたことはない。"
+      },
+      {
+        "vietnamese": "Nếu không nghĩ tới sự quét dọn thì nhà cửa rộng rãi vẫn tốt hơn",
+        "japanese": "そうじのことを考えない限り、家は広いにこしたことはない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "pattern": "～くせに～",
+    "meaning": "mặc dù…vậy mà",
+    "explanation": "Diễn tả tâm trạng kinh miệt, quở trách.",
+    "examples": [
+      {
+        "vietnamese": "Đừng có mà phàn nàn, bản thân làm không được mà lại…",
+        "japanese": "もんく言うんじゃないの。自分はできないくせに。。。"
+      },
+      {
+        "vietnamese": "Vận động viên chỉ được cái to xác, chứ chẳng có sức lực gì cả.",
+        "japanese": "あの選手は、体が大きいくせに、全く力がない。"
+      },
+      {
+        "vietnamese": "Con nít mà ăn nói cứ như người lớn",
+        "japanese": "子供のくせにおとなびたものの言い方をする子だな。"
+      },
+      {
+        "vietnamese": "Trong bụng thì thích mà ngoài mặt cứ khăng khăng là ghét",
+        "japanese": "好きなくせに、嫌いだと言いはっている。"
+      }
+    ],
+    "notes": "Ít dùng khi nói trang trọng"
+  },
+  {
+    "id": 19,
+    "pattern": "～ ゆえに／がゆえ（に）",
+    "meaning": "Vì…",
+    "explanation": "Thể hiện lý do vì một chuyện gì đó nên",
+    "examples": [
+      {
+        "vietnamese": "Vì có một lý do mà tôi bỏ quê hương đi đến nơi cực lạnh này",
+        "japanese": "ゆえあって故郷を捨て、この極寒の地に参りました。"
+      },
+      {
+        "vietnamese": "Vì không dễ dàng gặp được nên tôi càng muốn gặp hơn",
+        "japanese": "用意に会えぬがゆえに会いたさがつのる"
+      },
+      {
+        "vietnamese": "Cũng có những lỗi lầm vì trẻ người non dạ.",
+        "japanese": "若さ（が）ゆえの過ちもあるのだ。"
+      }
+    ],
+    "notes": "Đây là cách nói cứng."
+  },
+  {
+    "id": 20,
+    "pattern": "～および（～ 及び）",
+    "meaning": "Và….",
+    "explanation": "Đây là một từ tiếp ngữ dùng khi nêu ra nhiều sự vật, sự việc để tiếp dẫn sự việc giống nhau.",
+    "examples": [
+      {
+        "vietnamese": "Về ngày giờ thi và thời hạn nộp báo cáo chúng tôi sẽ niêm yết sau",
+        "japanese": "試験の日程及びレポートの提出期限については、追って掲示します。"
+      },
+      {
+        "vietnamese": "Vào hôm trước và hôm trước nữa của lễ hội, tiệm chúng tôi xin được nghĩ để chuẩn bị",
+        "japanese": "お祭りの前日及び前前日は準備のため休業させていただきます。"
+      },
+      {
+        "vietnamese": "Sau khi hộp xong chúng tôi sẽ thu hồi bảng tên và phần trả lời cho câu hỏi",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "会議終了後、名札およびアンケート用紙を回収します。",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "pattern": "～まんいち（～ 万一）",
+    "meaning": "Nếu lỡ trong trường hợp…..",
+    "explanation": "Thường được sử dụng với ý nghĩa xấu",
+    "examples": [
+      {
+        "vietnamese": "Nếu lỡ trong trường hợp vợ chồng đó li hôn thì sẽ khó khăn cho bọn trẻ",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "万一あの夫婦は離婚したら子供たちに大変です。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Nếu lỡ trong trường hợp anh ấy nghĩ việc thì có thể mọi người sẽ buồn",
+        "japanese": "万一彼は仕事を辞めたら皆さんは寂しくなれるです。"
+      },
+      {
+        "vietnamese": "Nếu lỡ trong trường hợp Việt Nam không thể khôi phục được nền kinh tế thì tôi nghĩ trong 10 năm nữa nền kinh tế sẽ trở nên tồi tệ",
+        "japanese": "万一ベトナムは今の経済の不況に回復ことができなければ10年後経済の状態は酷くなってくると思います。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "pattern": "～あえて～",
+    "meaning": "Dám….",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Vì sợ bị sa thải nên không có ai dám chống lại giám đốc",
+        "japanese": "首になるのがこわいから、社長にあえて逆らおうとする人は誰もいない"
+      },
+      {
+        "vietnamese": "Vì không muốn bị cảm lại nên tôi không dám ra khỏi phòng",
+        "japanese": "私はまた風邪をひかいないようにと、あえて部屋から出ようとしない。"
+      },
+      {
+        "vietnamese": "Tôi muốn mạnh dạn đề nghị các anh xem xét lại các quy định",
+        "japanese": "私はあえて皆さんに規則の見直しを提案したいと思います。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "pattern": "～がてら～",
+    "meaning": "Nhân tiện …",
+    "explanation": "Diễn tả tâm trạng nhân lúc làm gì đó thì cùng làm",
+    "examples": [
+      {
+        "vietnamese": "Nhân tiện mua đồ, mình đi quanh quanh xem khu này đi",
+        "japanese": "買い物がてら、その辺をぶらぶらしない。"
+      },
+      {
+        "vietnamese": "Nhân thể đi dạo, mình đi mua bánh mì luôn đi",
+        "japanese": "散歩がてら、パンを買いに行こう。"
+      },
+      {
+        "vietnamese": "Khi nào tới Kyoto, nhân tiện đi chơi, anh nhớ ghé chỗ chúng tôi luôn",
+        "japanese": "京都においでの節は、お遊びがてらぜひ私どものところへもお立ち寄りください。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "pattern": "～にかけては／～ にかけても",
+    "meaning": "Về, nếu nói về, dù nói về….",
+    "explanation": "Dùng để đánh giá cao năng lực, khả năng của người nào đó. Đi theo sau thường là một đánh giá.",
+    "examples": [
+      {
+        "vietnamese": "Nếu nói về món ăn thì anh ấy là người nổi tiếng",
+        "japanese": "料理にかけては、彼は名人だ"
+      },
+      {
+        "vietnamese": "Nếu nói về công việc đó thì thầy giáo là người lão luyện",
+        "japanese": "先生はその仕事にかけては老練な人だ。"
+      },
+      {
+        "vietnamese": "Nếu nói về giá cả cao thì không nơi nào cao như thành phố đó",
+        "japanese": "物価が高いにかけてはその部民ほど高い所はない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "pattern": "～かねない～",
+    "meaning": "Có lẽ",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Dù chỉ bị cảm thôi, nếu cứ bỏ mặc như thế mà không lo thuốc men, thì có thể bệnh sẽ trở nặng",
+        "japanese": "風邪だからといってほうっておくと、大きい病気になりかねない。"
+      },
+      {
+        "vietnamese": "Trận sụt lỡ đất lần này có thể sẽ gây thiệt hại kế tiếp, cần phải gấp rút bàn cách đối phó.",
+        "japanese": "今回の土砂崩れは二次災害を引き起こしかねないものであり、対策を急がねばならない。"
+      },
+      {
+        "vietnamese": "Nếu cứ chỉ chơi thế này thì có thể thi trượt đấy",
+        "japanese": "あまり遊んでばかりいると、落第しかねない。"
+      }
+    ],
+    "notes": "Ý nghĩa giống với～おそれがある , chỉ khác công thức\nDùng khi có khả năng mang lại kết quả xấu"
+  },
+  {
+    "id": 26,
+    "pattern": "～ からなる（成る）",
+    "meaning": "Tạo thành từ, hình thành từ",
+    "explanation": "Quyển sách này gồm 4 chương\nこの本は４つの章からなっている。\nQuốc hội Nhật được tạo thành từ Thượng viện và Hạ viện\n日本の議会は参議院と衆議院戸から成る\nTôi đã đề xuất một chương trình nghị sự gồm 3 luận điểm chính\n３つの主要な論点から成る議題を提案した。",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "pattern": "～ないですむ（～ ないで済む）",
+    "meaning": "Xong rồi…không, đủ rồi…không",
+    "explanation": "Thể hiện ý nghĩa cho dù không cần làm dự định, kế hoạch thì cũng có kết quả tốt. Tránh những chuyện dự đoán.",
+    "examples": [
+      {
+        "vietnamese": "Vì đường vắng nên tôi đã không trễ giờ",
+        "japanese": "道がすいていたので遅刻しないで済んだ。"
+      },
+      {
+        "vietnamese": "Tôi đã nói chuyện xong bằng điện thoại nên không cần phải đi",
+        "japanese": "電話が話がついたので、行かない済んだ"
+      },
+      {
+        "vietnamese": "Vì có điện thoại cũ đủ rồi nên không cần phải mua",
+        "japanese": "古い携帯電話をもらったので、買わないで済んだ。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "pattern": "～わけにはいかない～",
+    "meaning": "Không thể, không thể nhưng….",
+    "explanation": "Diễn tả tình trạng vì có một lý do nào đó nên không thể được.",
+    "examples": [
+      {
+        "vietnamese": "Tôi hơi bị sốt, nhưng vì hôm nay có một cuộc họp quan trọng, nên tôi không thể nghĩ làm",
+        "japanese": "ちょっと熱があるが、今日は大事な会議があるので仕事を休むわけにはいかない。"
+      },
+      {
+        "vietnamese": "Tôi đã được rủ đi hát karaoke, nhưng vì mai đã bắt đầu thi nên không thể đi được",
+        "japanese": "カラオケに誘われたが、明日から試験なので行くわけにはいかない。"
+      },
+      {
+        "vietnamese": "Tôi không thể bắt anh ấy làm điều đó",
+        "japanese": "私は彼にそれをさせるわけにはいけない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "pattern": "～ないわけにはいかない～",
+    "meaning": "Có thể, phải…",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Nếu là người khác thì còn có thể từ chối được, chứ nếu là ông sếp đó rủ đi nhậu thì phải đi",
+        "japanese": "他の人ならともかく、あの上司に飲みに誘われたら付き合わないわけにはいかない。"
+      },
+      {
+        "vietnamese": "Nếu bị đàn anh bắt uống rượu thì cũng phải uống",
+        "japanese": "先輩に飲めと言われたら飲まないわけにはいかない。"
+      },
+      {
+        "vietnamese": "Tiền ăn nói là quá cao nhưng phải ăn",
+        "japanese": "食費は高いからといって食べないわけにはいかない。"
+      }
+    ],
+    "notes": "～ないわけにはいかないtương đương mẫu câu　～なければならない。"
+  },
+  {
+    "id": 30,
+    "pattern": "～たうえで～（～ た上で）",
+    "meaning": "Xong……… rồi, về mặt……",
+    "explanation": "Cách thể hiện khi muốn diễn đạt một việc gì đó trước và kết quả của việc đó dẫn đến việc tiếp theo. Chủ thể của vế trước và vế sau của câu là một người. Vế sau thể hiện hành động ý chí.\nVề mặt, phương diện, phạm vi… Dùng khi nói là dựa theo điều kiện, thông tin nào đó.",
+    "examples": [
+      {
+        "vietnamese": "Sau khi thảo luận với người phụ trách xong, tôi sẽ hồi đáp cho quý ông",
+        "japanese": "担当の者と相談した上で、改めてご返事させていただきます。"
+      },
+      {
+        "vietnamese": "Cô có thể từ từ suy nghĩ, sau khi đã trình bày qua với bố mẹ cô",
+        "japanese": "一応ご両親にお話しなさった上で、ゆっくり考えていただいてけっこうです。"
+      },
+      {
+        "vietnamese": "Sau khi thương lượng ở công ty, tôi đã quyết định nghĩ việc",
+        "japanese": "会社で話し合った上で、仕事をやめました。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "pattern": "～ようなきがする～（～ ような気がする）",
+    "meaning": "Có cảm giác là, dường như là…..",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Tôi cảm thấy dường như là có chút gì đó không được như mong đợi",
+        "japanese": "ちょっと期待を裏切られたような気がする。"
+      },
+      {
+        "vietnamese": "Tôi cảm thấy hình như không còn cách nào khác nữa rồi",
+        "japanese": "もう他に方法はないような気がする。"
+      },
+      {
+        "vietnamese": "Tôi có cảm giác dường như sẽ xảy ra chuyện chẳng lành hay sao ấy.",
+        "japanese": "何となく不吉なことが起こるような気がする。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "pattern": "～いったん～ ば／と／たら",
+    "meaning": "Một khi….",
+    "explanation": "Khi bắt đầu có chuyện thay đổi một tình trạng nào đó thì tình trạng sẽ không trở lại như trước đó",
+    "examples": [
+      {
+        "vietnamese": "Một khi đã hồi phục như thế này thì không còn gì phải lo.",
+        "japanese": "いったんこの段階まで回復すれば、後はもう大丈夫だ。"
+      },
+      {
+        "vietnamese": "Một khi đã quen với cuộc sống thư thả thế này thì không thể nào quay về cuộc sống tất bật như trước được nữa.",
+        "japanese": "いったんこんなゆとりのある生活に慣れてしまったら、もう前のような忙しい生活には戻れない"
+      },
+      {
+        "vietnamese": "Loại bánh này một khi đã mở nắp ra thì sẽ nhanh mềm nên phải ăn ngay",
+        "japanese": "このお菓子はいったんふたを開けるとすぐに湿ってしまうので、早く食べなければならない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "pattern": "～でいいです～",
+    "meaning": "Là được, là đủ….",
+    "explanation": "Thường sử dụng nhiều nhất trong câu khẳng định, sử dụng chọn lựa mang tính tiêu cực",
+    "examples": [
+      {
+        "vietnamese": "Từ thành phố Hồ Chí Minh xuống Biên Hòa đi xe máy là được",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Hồ Chí Minh市からBiên Hòaまでオートバイでいいです。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Buổi tối ăn sushi là đủ",
+        "japanese": "夕飯は寿司でいいです。"
+      }
+    ],
+    "notes": "Giống mẫu câu 「～で結構です」"
+  },
+  {
+    "id": 34,
+    "pattern": "～やむをえず（～ やむを得ず）",
+    "meaning": "Không thể tránh khỏi, miễn cưỡng, bất đắc dĩ",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Mọi người bất đắc dĩ phải trì hoãn buổi họp",
+        "japanese": "我々はやむをえず会議を延期した。"
+      },
+      {
+        "vietnamese": "Dự định đi du lịch nhưng do bệnh nên phải hoãn lại",
+        "japanese": "旅行に行く予定だったが病気になったのでやむをえず中止にした。"
+      },
+      {
+        "vietnamese": "Hôm qua bất đắc dĩ đành phải đi ra ngoài",
+        "japanese": "私は昨日やむをえず外出せざるをえなかった。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "pattern": "～ではないだろうか～",
+    "meaning": "Có lẽ sẽ…..chăng",
+    "explanation": "Dùng để diễn tả suy đoán về sự việc nào đó có xảy ra hay không",
+    "examples": [
+      {
+        "vietnamese": "Phải chăng là cô ấy đã ăn năn nhiều",
+        "japanese": "いろいろと反省したのではないだろうか。"
+      },
+      {
+        "vietnamese": "Không chừng trận đấu lần này sẽ gặt hái được thành tích tốt",
+        "japanese": "今回の試合ではいい成績があげられるのではないだろうか。"
+      },
+      {
+        "vietnamese": "Người đi ngược chiều với tôi lúc này có lẽ là bạn thời trung học phổ thông chăng?",
+        "japanese": "さっきすれちがった人は、高校の時の同級生ではないだろうか。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "pattern": "～ろくに～ ない",
+    "meaning": "Không….một chút gì",
+    "explanation": "Diễn tả sự phủ định hoàn toàn",
+    "examples": [
+      {
+        "vietnamese": "Gã đó suốt ngày chỉ biết có rượu chè, hầu như chẳng làm việc gì cả",
+        "japanese": "あいつは昼間から酒ばかり飲んでろくに仕事もしない。"
+      },
+      {
+        "vietnamese": "Con bé đó hầu như chẳng học hành gì cả",
+        "japanese": "あの子たあらろくに勉強もしない"
+      },
+      {
+        "vietnamese": "Cô ấy cả ngày hôm nay chẳng ăn cái gì",
+        "japanese": "彼女は今日ろくに何にも食べなかった。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "pattern": "～よりしかたがない（～ より仕方がない）",
+    "meaning": "Không còn cách nào, hết cách….",
+    "explanation": "Biểu thị vì lý do nên không còn sự lựa chọn nào khác",
+    "examples": [
+      {
+        "vietnamese": "Không còn cách nào là phải chờ cô ấy",
+        "japanese": "彼女を待つより仕方がない。"
+      },
+      {
+        "vietnamese": "Chúng tôi không còn cách nào là phải làm y nguyên nhu thế này",
+        "japanese": "わたしたちはこのままやっていくより仕方がない。"
+      },
+      {
+        "vietnamese": "Công ty này không tốt nhưng không còn cách nào là phải làm",
+        "japanese": "この会社は悪いがするより仕方がない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "pattern": "～せめて～",
+    "meaning": "Dù chỉ….cũng muốn…..",
+    "explanation": "Dùng để thể hiện mong muốn tha thiết của người nói để được đáp ứng nguyện vọng của mình, dù là ở mức độ tối thiểu nhất.\nせめて＝少なくとも(ít nhất)",
+    "examples": [
+      {
+        "vietnamese": "Mùa hè, chúng tôi mong được nghỉ ít nhất cũng khoảng 1 tuần",
+        "japanese": "夏はせめて一週間ぐらい休みが欲しい。"
+      },
+      {
+        "vietnamese": "Tôi muốn ở trong một căn nhà, dù chật cũng được, nhưng tối thiểu phải có vườn",
+        "japanese": "小さくてもいい。せめて庭のある家に住みたい。"
+      },
+      {
+        "vietnamese": "Chỉ cần có thêm 3 ngày nữa là tôi có thể hoàn thành tác phẩm tốt hơn thế này",
+        "japanese": "せめてあと三日あれば、もうちょっといい作品が出せるのだが。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "pattern": "～ものですから／～ ものだから",
+    "meaning": "Vì….",
+    "explanation": "Dùng để khi giải thích lý do, phân trần, biện bạch",
+    "examples": [
+      {
+        "vietnamese": "Vì người chạy trước tôi bị té, nên tôi bị vấp người đó cũng té luôn",
+        "japanese": "私の前を走っている人が転んだものだから、それにつまづいて私も転んでしまった。"
+      },
+      {
+        "vietnamese": "Vì kém tiếng Anh nên tôi rất ngại đi du lịch nước ngoài",
+        "japanese": "英語が苦手なものですから外国旅行は尻ごみしてしまいます。"
+      },
+      {
+        "vietnamese": "Vì nhà ga xa qáu nên tôi đã đi taxi luôn",
+        "japanese": "駅まであまりに遠かったものだから、つい借りてしまった。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "pattern": "～がきになる（～ が気になる）",
+    "meaning": "Lo lắng, băn khoăn, lo ngại…..",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Tôi lo lắng về tương lai Việt Nam",
+        "japanese": "ベトナムの将来より、私が気になる。"
+      },
+      {
+        "vietnamese": "Lo lắng việc cô ấy trở về chậm trễ",
+        "japanese": "彼女の帰りの遅いのが気になる"
+      },
+      {
+        "vietnamese": "Bố mẹ nói chung điều lo lắng tương lai của con cái mình",
+        "japanese": "たいていの親は自分の子供の将来が気になるものです。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "pattern": "～おもうように（～ 思うように）",
+    "meaning": "Như đã nghĩ…",
+    "explanation": "Thường sử dụng ở thể phủ định",
+    "examples": [
+      {
+        "vietnamese": "Tiếng nhật của anh ấy chưa tiếng bộ như đã nghĩ",
+        "japanese": "彼の日本語は思うように上達しません。"
+      },
+      {
+        "vietnamese": "Bài thi đã không hoàn thành tốt như đã nghĩ",
+        "japanese": "試験は思うようにうまく出来なかった。"
+      },
+      {
+        "vietnamese": "Thời tiết không tốt như đã nghĩ",
+        "japanese": "天気は思うように悪い。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "pattern": "～ さすが（に）",
+    "meaning": "quả là….",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Quả thật, anh Yamada có khác. Khéo thật",
+        "japanese": "さすが山田さんだねえ。うまいねえ。"
+      },
+      {
+        "vietnamese": "Ngay cả ở Okinawa cũng không tránh được lẽ thường, đêm mùa đông lạnh nhỉ",
+        "japanese": "沖縄でもさすがに冬の夜は寒いね。"
+      },
+      {
+        "vietnamese": "Việc nói sự thật quả là có dũng khí",
+        "japanese": "本当の事を言ったとはさすがに勇気がある"
+      }
+    ],
+    "notes": "Khi đi với mẫu câuさすがは～だけあって có nghĩa là như mong muốn, như là."
+  },
+  {
+    "id": 43,
+    "pattern": "～ものの～",
+    "meaning": "Mặc dù….nhưng là…",
+    "explanation": "Dùng để diễn tả cho sự việc bất ngờ, sự việc ngoại lệ thường xảy ra",
+    "examples": [
+      {
+        "vietnamese": "Trái cây nhập khẩu, tuy đắt tiền nhưng vì hiếm và được ưa chuộng nên bán rất chạy",
+        "japanese": "輸入果物は、高いもののめずらしいらしく、人気があってよく売れている。"
+      },
+      {
+        "vietnamese": "Thiệp mời đã được gửi đi, nhưng những chuyện khác thì vẫn chưa chuẩn bị gì cả",
+        "japanese": "招待状は出したものの、まだほかの準備は全くできていない。"
+      },
+      {
+        "vietnamese": "Tôi đã mua giày leo núi mới, nhưng vì bận rộn vẫn chưa đi núi lần nào cả",
+        "japanese": "新しい登山靴を買ったものの、忙しくてまだ一度も山へ行っていない。"
+      }
+    ],
+    "notes": "Mẫu câu này tương tự như にもかかわらずnhưng người nói nêu ra sự thật vấn đề, nói rõ ý kiến hơn\nMẫu câu này khác với thể くせにbởi vì khi dùngものの thì bạn không chỉ trích hay phàn nàn về mọi thứ."
+  },
+  {
+    "id": 44,
+    "pattern": "～いっぽうで（～一方、～ 一方で（は））",
+    "meaning": "Mặt khác, trái lại……",
+    "explanation": "Dùng để diễn tả sự so sánh\nĐối với danh từ và tính từ なđược sử dụng「名－である」「な形－である」",
+    "examples": [
+      {
+        "vietnamese": "Tôi vừa phải hoàn thành công việc của mình vừa phải chăm sóc các nhân viên cấp dưới",
+        "japanese": "自分の仕事をこなす一方で、部下のめんどうも見なければならない。"
+      },
+      {
+        "vietnamese": "Bộ phim này một mặt được đánh giá là phim hay nhất trong năm, mặt khác thì bị nói là một tác phẩm tồi.",
+        "japanese": "この映画は、一方では今年最高との高い評価を受けていながら、他方ではひどい出来だと言われている。"
+      },
+      {
+        "vietnamese": "Ở Nhật, số phụ nữ không sinh con đang gia tăng. Còn ở Mỹ thì số phụ nữ không kết hôn nhưng muốn có con lại tăng.",
+        "japanese": "日本では子供を生まない女性が増えている。一方アメリカでは、結婚しなくても子供は欲しいという女性が増えている。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "pattern": "～それにしても～",
+    "meaning": "Dù saođi nữa, tuy nhiên, tuy vậy",
+    "explanation": "Diễn tả tình trạng trong bất cứ trường hợp nào.",
+    "examples": [
+      {
+        "vietnamese": "A. Xăng lại lên giá rồi đấy",
+        "japanese": "またガスリン代、値上がりしたよ。"
+      },
+      {
+        "vietnamese": "B. Mà nghĩ cũng lạ, mấy ông chính trị gia đang làm gì mà để cho chúng phải điêu đứng như thế này nhỉ",
+        "japanese": "それにしても政治家は何をしてるんだろう。われわれがこんなに苦しんでいるのに。"
+      },
+      {
+        "vietnamese": "A. Nghe nói cậu Sakamoto đã đậu vào trường phổ thông trung học rồi đấy",
+        "japanese": "坂本さん、あの高校に受かったんだってね。"
+      },
+      {
+        "vietnamese": "B. Hình như cậu ta đã phải học tập cật lực lắm thì phải",
+        "japanese": "必死で勉強してたらしいよ。"
+      },
+      {
+        "vietnamese": "A. Vẫn biết thế nhưng cũng đáng nể thiệt",
+        "japanese": "それにしてもすごいね。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "pattern": "～を～ にまかせる",
+    "meaning": "Phó thác",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Phó thác vận mệnh cho trời",
+        "japanese": "運を天にまかせる"
+      },
+      {
+        "vietnamese": "Việc nội trợ phó thác hết cho mẹ",
+        "japanese": "家事を母にまかせる"
+      },
+      {
+        "vietnamese": "Việc dịch tài liệu này hãy phó thác cho tôi",
+        "japanese": "この書類の翻訳することを私にまかせてください"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "pattern": "～にいたるまで～（～ に至るまで）",
+    "meaning": "Từ……đến",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Tôi đã lục soát từ những món đồ mua trong chyến đi cho đến tất cả những vật dụng trong túi xách tay.",
+        "japanese": "旅行中に買ったものからハンドﾊﾞｯｸの中身に至るまで、厳しく調べられた。"
+      },
+      {
+        "vietnamese": "Nhờ sự phổ cập của tivi mà bây giờ những thông tin hầu như giống nhau đã được truyền bá rộng khắp từ những đô thị lớn như Tokyo cho đến các thôn làng ở địa phương",
+        "japanese": "テレビの普及によって、東京などの大都市から地方の村々に至るまで、ほぼ同じような情報が行き渡るようになった。"
+      },
+      {
+        "vietnamese": "Chị Mei làm giáo viên từ cách đây 10 năm cho đến bây giờ",
+        "japanese": "明さんは10年前から今に至るまで教師として勤めています。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "pattern": "～ かねる",
+    "meaning": "Không thể, khó mà có thể",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Khó mà tán thành ý kiến ấy của anh được",
+        "japanese": "そのご意見には賛成しかねます。"
+      },
+      {
+        "vietnamese": "Rất tiếc, tôi không thể tiếp nhận đề nghị ấy của anh được",
+        "japanese": "残念ながら、そのご提案はお受けいたしかねます"
+      },
+      {
+        "vietnamese": "Vì thấy người ấy la mắng trẻ con mà không hiểu một tí gì về tâm lý của chúng, nên tôi không nhịn được, phải lên tiếng thế thôi",
+        "japanese": "その人が、あまりにも子供の心理を理解していないようなしかり方をするものだから、見かねて、つい口を出してしまったんだ。"
+      },
+      {
+        "vietnamese": "Chú ý;",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Hình thức mẫu câu là khẳng định nhưng mang ý nghĩa phủ định.",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "pattern": "～さしつかえない～",
+    "meaning": "Không có vấn đề gì, không gây chướng ngại, không gây cản trở",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Nếu không có gì trở ngại thì tối nay tôi sẽ gọi điện thoại đến nhà anh.",
+        "japanese": "さしつかえ（が）なければ、今夜ご自宅にお電話しますが"
+      },
+      {
+        "vietnamese": "Cái này tôi mượn đến tuần sau sẽ trả, có thật là không có trở ngại gì không ạ?",
+        "japanese": "これ、来週までお借りして本当にさしつかえありませんか。"
+      },
+      {
+        "vietnamese": "Nếu để tôi đưa đi mà vẫn không có gì trở ngại, thì tôi xin được dùng xe của mình đưa thầy Yamada đi.",
+        "japanese": "私がお送りしてさしつかえないのなら、山田先生は私の車でお連れしますが。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "pattern": "～たちまち～",
+    "meaning": "Ngay lập tức, đột nhiên….",
+    "explanation": "Dùng để diễn tả sự việc xảy ra trong một thời gian rất ngắn, tức thì. Và sự việc đột nhiên phát sinh.",
+    "examples": [
+      {
+        "vietnamese": "Tạp chí ngay lập tức bán hết sạch",
+        "japanese": "雑誌はたちまち売り切れた。"
+      },
+      {
+        "vietnamese": "Thông báo đó ngay lập tức được lan truyền rộng",
+        "japanese": "その知らせはたちまち広いまった。"
+      },
+      {
+        "vietnamese": "Tin đồn xấu ngay lập tức bị lan truyền",
+        "japanese": "悪い噂はたちまち伝わる。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "pattern": "～つうじて（～ 通じて）",
+    "meaning": "Thông qua (phương tiện). Suốt (thời gian)",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Ngày nay thông tin trên thế giới có được thong qua internet",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "今、インタﾈｯﾄを通じて、世界中の情報を手に入れる",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Địa phương đó mưa nhiều suốt một năm",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "あの地方１年を通じて、雨が多い。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Có được cuốn sách quý thông qua người bạn",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "友人を通じて珍しい本を手に入れる。",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "pattern": "～なにしろ～（～ 何しろ）",
+    "meaning": "Dù thế nào đi nữa ~",
+    "explanation": "Dù thế nào đi nữa tôi vẫn chưa kết hôn\n何しろ、私は結婚がない\nDù gì đi nữa thì anh ta vẫn là người thông minh\n何しろ彼は頭がいい。\nDù gì thì cũng vào mùa du lịch cao điểm, nên tôi nghĩ khách sạn nào cũng không thể đặt chỗ được.\n何しろ観光シーズンですからどのホテルも予約は取れにと思います。",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "pattern": "～かたわら～（～ 傍ら）",
+    "meaning": "Bên cạnh……",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Đứa con gái đang chơi xếp giấy bên cạnh mẹ nó đang đan áo",
+        "japanese": "母が編み物をするかたわらで、女の子は折り紙をして遊んでいた。"
+      },
+      {
+        "vietnamese": "Anh Tagawa gục đầu chán nản bên cạnh anh Tanaka đang nói chuyện vui vẻ",
+        "japanese": "楽しそうにおしゃべりしている田中君のかたわらで、田川さんはしょんぼりうつむいていた。"
+      },
+      {
+        "vietnamese": "Cô ấy bên cạnh làm giáo viên thì còn làm kinh doanh",
+        "japanese": "彼は教師のかたわらビジネスもしている。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "pattern": "～ごとき／～ごとく／～ ごとし（如し）",
+    "meaning": "Giống như là…",
+    "explanation": "Thường dùng với nghĩa thực tế không phải như vậy, giống như vậy…",
+    "examples": [
+      {
+        "vietnamese": "Thời tiết giống mùa hè",
+        "japanese": "夏のごとき天気。"
+      },
+      {
+        "vietnamese": "Ngày tháng trôi qua như tên bay",
+        "japanese": "光陰矢のごとし。"
+      },
+      {
+        "vietnamese": "Thời gian trôi qua như tên bắn",
+        "japanese": "時間というものは、矢のごとくはやくすぎさっていくものだ。"
+      }
+    ],
+    "notes": "Tương tự mẫu câu ～ような／～ように／～ようだ"
+  },
+  {
+    "id": 55,
+    "pattern": "～たまらない～",
+    "meaning": "Rất là….",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Tôi rất lo lắng chuyện tương lai",
+        "japanese": "将来の事が心配でたまらない。"
+      },
+      {
+        "vietnamese": "Chúng tôi không có bạn thì rất buồn",
+        "japanese": "私たちはあなたがいなくてとても寂しくてたまらない"
+      },
+      {
+        "vietnamese": "Hãy nói tôi nghe đi, tôi rất muốn nghe chuyện đó",
+        "japanese": "その話をしてよ。聞きたくてたまらない"
+      }
+    ],
+    "notes": "Ngoài ra còn dùng trong hội thoại, đáp lại nội dung đã nghe từ người nói “không thể chịu đựng được”\nCái hồ ấy câu được rất nhiều cá, thích thật\nあの湖では面白いほど魚がつれるんだよ。\nNhững ai thích câu cá, chắc là không thể nào chịu được nếu không thể xách cần đến đó\nつり好きにはたまらないね。"
+  },
+  {
+    "id": 56,
+    "pattern": "～とうてい～",
+    "meaning": "Hoàn toàn không thể, hoàn toàn không còn cách nào….",
+    "explanation": "Dùng để diễn tả ý dù cho có lấy phương pháp như thế nào, dù cho suy nghĩ như thế nào đi nữa thì cũng không thể, quá sức, quá khả năng, không thể có.",
+    "examples": [
+      {
+        "vietnamese": "Với thực lực thằng con nhà tôi thì chẳng thể nào thi đậu vào Todai được",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "うちの息子の実力では、東大合格はとうてい無理だ。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Không thể nào anh ấy lại phản bộ tôi",
+        "japanese": "彼が私を裏切るなんて、とうていあり得ない。"
+      },
+      {
+        "vietnamese": "Xét về bề dày lịch sử thì các đại học của Nhật Bản không thể nào bằng được các đại học xưa ở phương Tây.",
+        "japanese": "歴史の長さにおいて、日本の大学は西洋の古い大学にはとうてい及ばない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "pattern": "～のばる～",
+    "meaning": "Đạt hơn….",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Sản lượng trái cây năm nay đạt hơn 10 tấn",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "今年、果物の生産量は10トンにのぼる",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Khoản thu nhập năm nay đạt hơn 300 triệu đồng",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "今年の収入は3百万ドンにのぼる",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "pattern": "～さえ。。。。。ば～",
+    "meaning": "Chỉ cần",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Chỉ cần anh có mặt ở bên cạnh em, ngoài ra em không cần gì cả",
+        "japanese": "あなたさえそばにいてくだされば、ほかには何もいりません。"
+      },
+      {
+        "vietnamese": "Chỉ cần biết đề thi lần này ra những gì là đủ",
+        "japanese": "今度の試験で何が出るのかさえわかったするば。"
+      },
+      {
+        "vietnamese": "Chỉ cần có sức khỏe ngoài ra không cần điều gì khác",
+        "japanese": "健康でさえあれば、ほかには何も望まない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "pattern": "～しだいだ（～ 次第だ）",
+    "meaning": "Chuyện là, lý do là, kết quả là….",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Làm hay không là chuyện của anh",
+        "japanese": "するかしないかは、あなた次第だ。"
+      },
+      {
+        "vietnamese": "Ở đời có chuyện là mọi chuyện tùy thuộc vào đồng tiền, có tiền mua tiên cũng được",
+        "japanese": "世の中は金次第でどうにでもなる。"
+      },
+      {
+        "vietnamese": "Cũng có chuyện là cuộc đời của ta được quyết định tùy theo người bạn đời của ta",
+        "japanese": "結婚した相手次第で人生が決まってしまうこともある。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "pattern": "～あげく～",
+    "meaning": "Sau…..rốt cuộc là….",
+    "explanation": "Diễn tả tình trạng xảy ra trước đó, kéo dài một thời gian nhất định và cuối cùng đi đến quyết định triển khai, giải quyết….",
+    "examples": [
+      {
+        "vietnamese": "Suy nghĩ trăn trở mãi, cuối cùng tôi quyết định gửi thư xin lỗi anh ấy",
+        "japanese": "さんざん悩んだあげく、彼には手紙で謝ることにした。"
+      },
+      {
+        "vietnamese": "Suy đi nghĩ lại mãi, cuối cùng tôi quyết định bán căn nhà này",
+        "japanese": "考えに考えたあげく、この家を売ることに決めた"
+      },
+      {
+        "vietnamese": "Sau một thời gian dài tới 6 năm đại học mà cứ chơi bời lêu lỏng suốt, cuối cùng em trai tôi lại nói nó không muốn đi làm.",
+        "japanese": "弟は6年も大学に行って遊びほうけたあげくに、就職したくないと言い出した。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "pattern": "～ あまり",
+    "meaning": "Vì….bất thường nên",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Đau đầu vì nhiều bài tập quá",
+        "japanese": "あまりの宿題の多さに頭が痛くなった。"
+      },
+      {
+        "vietnamese": "Mẹ tôi vì quá đau buồn nên đã ngã bệnh",
+        "japanese": "母は悲しみのあまり、病の床に就いてしまった。"
+      },
+      {
+        "vietnamese": "Vấn đề này quá phức tạp đến nỗi tôi không đủ cả tinh thần để tìm biện pháp giải quyết.",
+        "japanese": "あまりの問題の複雑さに、解決策を考える気力もわかない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "pattern": "～いじょう～（～ 以上）",
+    "meaning": "Chừng nào, đã là…thì",
+    "explanation": "Đối với danh từ và tính từな được sử dụng 「名－である」「な形－である」",
+    "examples": [
+      {
+        "vietnamese": "Một khi đã quả quyết là làm được, thì bất luận với bất cứ lý do gì cũng không được thất bại",
+        "japanese": "絶対にできると言ってしまった以上，どんな失敗も許されない"
+      },
+      {
+        "vietnamese": "Điểm thi xấu hon cả dự kiến",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "試験の点は想像以上に悪かった。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Loại thuốc đó hiệu quả hơn mong đợi",
+        "japanese": "その薬は期待以上の効果をもたらした。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "pattern": "～いっぽだ（～ 一方だ）",
+    "meaning": "Trở nên.., ngày càng…",
+    "explanation": "Diễn tả xu hướng đó ngày càng tiếp diễn",
+    "examples": [
+      {
+        "vietnamese": "Tình thế ngày càng trở nên xấu đi",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "事態は悪くなる一方だ。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Công việc ngày càng trở nên bận rộn, nếu tình trạng này kéo dài có lẽ một lúc nào đó tôi sẽ gục ngã mất",
+        "japanese": "仕事は忙しくなる一方で、このままだといつかは倒れてしないそうだ。"
+      },
+      {
+        "vietnamese": "Gần đây, đồng yên ngày càng tăng giá",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "最近、円は値上がりする一方だ。",
+        "japanese": ""
+      }
+    ],
+    "notes": "Sử dụng với động từ chỉ sự thay đổi"
+  },
+  {
+    "id": 64,
+    "pattern": "～いらい（～ 以来）",
+    "meaning": "Suốt từ đó về sau…",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Suốt từ khi tôi nằm vùi vì bị cảm trong kỳ nghĩ hè tới nay, tình trạng sức khỏe của tôi thực sự tệ.",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "夏休みに風邪で寝込んで以来、どうも体の調子が悪い。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Sau khi từ Mỹ trở về tới nay, dường như con người anh ấy đã thay đổi",
+        "japanese": "アメリカから帰ってきて以来、彼はまるで人が変わったようだ。"
+      },
+      {
+        "vietnamese": "Từ khi dọn về căn nhà này, hầu như tôi trở nên bận rộn",
+        "japanese": "この家に引っ越して以来、毎日忙しくてしまった"
+      }
+    ],
+    "notes": "Sử dụng với những sự việc diễn ra liên tục từ một thời điểm trong quá khứ cho tới hiện tại."
+  },
+  {
+    "id": 65,
+    "pattern": "～うえに～（～ 上に）",
+    "meaning": "Không chỉ…hơn nữa",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Năm nay mùa hè nhiệt độ đã thấp, thiệt hại do bão gây ra lại lớn, nên giá rau quả tăng cao bất thường",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "今年は冷夏である上に台風の被害も大きくて、野菜は異常な高値を記録している。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Cô ấy đã thất bại trong công việc, hơn nữa lại bị người yêu bỏ nên tinh thần suy sụp",
+        "japanese": "彼女は、就職に失敗した上、つきあっていた人もふられて、とても落ち込んでいた。"
+      },
+      {
+        "vietnamese": "Khu này không chỉ yên tĩnh hơn nữa lại gần nhà ga nên môi trường sống thật lý tưởng",
+        "japanese": "このあたりは閑静な上に、駅にも近く住環境としては申し分ない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "pattern": "～うえで（～ 上で）",
+    "meaning": "Sau khi…thì",
+    "explanation": "Diễn tả tình trạng đầu tiên làm gì tiếp theo sẽ có kết quả đó",
+    "examples": [
+      {
+        "vietnamese": "Vậy thì sau khi thảo luận với người phụ trách xong, tôi sẽ hồi đáp cho quý ông",
+        "japanese": "では、担当も者と相談した上で、改めてご返事させていただきます。"
+      },
+      {
+        "vietnamese": "Cô có thể từ từ suy nghĩ, sau khi đã trình bày qua với bố mẹ",
+        "japanese": "一応ご両親にお話しなさった上で、ゆっくり考えていただいてけっこうです。"
+      },
+      {
+        "vietnamese": "Sau khi đã lỡ nói là làm rồi thì có xảy ra bất cứ chuyện gì cũng phải làm",
+        "japanese": "やると言ってしまったうえで、何が何でもやらなければならない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "pattern": "～おかげで／～ おかでだ",
+    "meaning": "Nhờ có…",
+    "explanation": "Diễn tả tình trạng vì có sự trợ giúp, giúp đỡ đã trở nên, trở thành kết quả tốt",
+    "examples": [
+      {
+        "vietnamese": "Nhờ anh mà tôi đã được cứu thoát",
+        "japanese": "あなたのおかげで助かりました。"
+      },
+      {
+        "vietnamese": "Năm nay nhờ mùa hè mát mẻ nên sinh hoạt hầu như khỏi dùng máy lạnh",
+        "japanese": "今年は夏が涼しかったおかげで冷房はほとんど使わずにすんだ。"
+      },
+      {
+        "vietnamese": "Con tôi được cứu thoát là nhờ vào ông",
+        "japanese": "子供が助かったのはあなたのおかげです。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "pattern": "～おそれがある～（～ 恐れがある",
+    "meaning": "Có lẽ, không chừng là, lo lắng về",
+    "explanation": "Diễn tả tình trạng sự việc diễn biến theo chiều hướng xấu.",
+    "examples": [
+      {
+        "vietnamese": "Sợ rằng đêm nay và ngày mai sẽ có sóng thần, mọi người hãy hết sức cảnh giác",
+        "japanese": "今夜から明日にかけて津波の恐れがあるので、厳重に注意してください。"
+      },
+      {
+        "vietnamese": "Bệnh này không chừng sẽ truyền nhiễm từ người này sang người khác",
+        "japanese": "この病気人から人へ伝染する恐れがある。"
+      },
+      {
+        "vietnamese": "Vì e rằng núi lửa sẽ phun trào, nên người ta đã khuyến cáo mọi người trong khu vực nguy hiểm đi lánh nạn.",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "再び噴火する恐れがあるため、警戒区域の住民に避難勧告が出された。",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "pattern": "～か～ ないかのうちに",
+    "meaning": "Trong khi chưa…thì đã",
+    "explanation": "Diễn tả tình trạng mặc dù vẫn chưa hoàn thành…..nhưng liền ngay……",
+    "examples": [
+      {
+        "vietnamese": "Trong khi chưa biết bia trong tủ lạnh đã lạnh chưa thì đã lấy bia ra uống rồi",
+        "japanese": "冷蔵庫に冷えたか冷えないかのうちに、ビールを取り出して飲んだ。"
+      },
+      {
+        "vietnamese": "Trong khi chưa biết câu chuyện đã xong chưa thì cô ấy đã tắt điện thoại rồi",
+        "japanese": "話が済んだか済まないかのうちに、彼女は電話を切った。"
+      },
+      {
+        "vietnamese": "Trong khi mới cầm đũa định ăn cơm tối thì máy tin nhắn có tin nhắn gọi tới",
+        "japanese": "夕食に手をつけるかつけないかのうちに、ポケットベルで呼び出された。"
+      }
+    ],
+    "notes": "Với mẫu câu này sẽ sử dụng cùng một động từ giống nhau"
+  },
+  {
+    "id": 70,
+    "pattern": "～かける／～かけだ／～ かけの",
+    "meaning": "Chưa xong, đang dở dang",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Chuông phòng ngoài reo lúc tôi đang viết dở lá thư bàn về một vấn đề quan trọng với bạn tôi",
+        "japanese": "とも出しに大事な相談の手紙を書きかけた時、玄関のベルが鳴った。"
+      },
+      {
+        "vietnamese": "Con mèo đó bị đói gần nhu sắp chết, nhưng khi tôi chăm sóc, nó đã sống lại như là một kỳ tích",
+        "japanese": "その猫は飢えでほとんどしにかけていたが、世話をしたら奇跡的に命を取り戻した。"
+      },
+      {
+        "vietnamese": "Tôi nói “tạm biệt nhé”, rồi gác ống nghe, thì chợt nhớ “Chết! Hỏng rồi”. Vì tôi đã quên nói với anh ta về vụ việc đó",
+        "japanese": "「じゃあ」と言って受話器を置きかけて、しまったと思った。彼に用件を言い忘れておたことに気づいたのだ。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "pattern": "～ がち",
+    "meaning": "thường…",
+    "explanation": "～がちだ：　Thường, có xu hướng\n～がちの：　Nhiều",
+    "examples": [
+      {
+        "vietnamese": "Khi tuyết rơi, xe buýt thường tới trễ",
+        "japanese": "雪が降ると、バスは遅れがちだ。"
+      },
+      {
+        "vietnamese": "Bữa ăn của người sống một mình thường ít tiền",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "一人暮らしの食事はお金が少しがちだ",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Mùa xuân thì những ngày mát mẻ nhiều",
+        "japanese": "春は曇りがちの日が多い。"
+      }
+    ],
+    "notes": "Từ quen dùng:\n～忘れがち：　Thường hay quên\n～遠慮がち：　Hay ngại ngùng\n～になりがち：Thường trở thành\n～しがち：　　Thường làm\n～病気がち：　Thường hay ốm\nHay được dùng với nghĩa xấu"
+  },
+  {
+    "id": 72,
+    "pattern": "～かとおもうと／～とおもったら（～ かと思うと／かと思ったら",
+    "meaning": "Vừa thấy….thì",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Vừa mới về đây mà lại đi nữa rồi",
+        "japanese": "帰ってきたかと思ったら、また出かけていった。"
+      },
+      {
+        "vietnamese": "Mãi mới về nhà vậy mà lại đi nữa",
+        "japanese": "やっと帰ってきたかと思ったら、また出かけるの。"
+      },
+      {
+        "vietnamese": "Đột nhiên trời sập tối và thế là một cơn mưa dữ dội trút xuống",
+        "japanese": "急に空が暗くなったかと思うと、はげしい雨が降ってきた。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "pattern": "～ かねない",
+    "meaning": "Có lẽ….",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Dù chỉ bị cảm thôi, nếu cứ bỏ mặc như thế mà không lo thuốc men thì có lẽ bệnh sẽ trở nặng",
+        "japanese": "風邪だからといってほうっておくと、大きい病気になりかねない。"
+      },
+      {
+        "vietnamese": "Tôi thì nghĩ là ai chứ nếu là nó thì rất có thể sẽ làm chuyện đó",
+        "japanese": "私はあいつならやりかねないと思うけどね。"
+      },
+      {
+        "vietnamese": "Nếu cứ chỉ chơi như thế này thì thi trượt mất đấy",
+        "japanese": "あまり遊んでばかりいると、落第しかねない。"
+      }
+    ],
+    "notes": "Ý nghĩa giống với ～おそれがあるchỉ khác công thức\nDùng khi có khả năng mang lại kết quả xấu"
+  },
+  {
+    "id": 74,
+    "pattern": "～かのようだ／～かのような／～ かのように",
+    "meaning": "Với vẻ giống như là…..",
+    "explanation": "Ví dụ：\nTuyết này nhìn có vẻ giống bông.\nこの雪はまるで綿かのようだ。\nAnh ấy là người không giống như bạn nghĩ đâu\n彼はあなたが思っているかのような人ではない。\nMấy cô con gái ai cũng đẹp với vẻ giống như mẹ mình ngày trước vậy.\n母親が美人だったかのように、娘たちもみな美人ぞろいだ。",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "pattern": "～からいって～",
+    "meaning": "Nếu đứng từ góc độ….",
+    "explanation": "～からいって～：　Nếu đứng từ góc độ\n～からいうと～：　Nếu nhìn từ quan điểm\n～かれいえば～：　Nếu nói từ góc độ",
+    "examples": [
+      {
+        "vietnamese": "Căn cứ trên cách trả lời lúc nảy, thì dường như tôi bị người đó ghét",
+        "japanese": "さっきに返事のしかたから言って、私はあの人に嫌われているようだ。"
+      },
+      {
+        "vietnamese": "Xét về giọng nói lúc đó thì dường như anh ấy đã biết chuyện đó rồi",
+        "japanese": "あの口ぶりから言って、彼はもうその話を知っているようだな。"
+      },
+      {
+        "vietnamese": "Nếu đứng từ góc độ của anh ấy thì tôi cho rằng anh ấy sẽ không đồng ý vì một việc như thế đâu",
+        "japanese": "あの日と性格から言って、そんなことで納得するはずがないよ。"
+      }
+    ],
+    "notes": "Có nghĩa giống với các cụm từ sau～か見ると、～か見れば、～か考えると、～か考えば。"
+  },
+  {
+    "id": 76,
+    "pattern": "～から～にかけて～",
+    "meaning": "Từ khoảng…đến",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Có vẻ như từ đêm nay cho tới sáng mai, cơn bão sẽ đổ bộ lên đất liền",
+        "japanese": "台風は今晩から明日のあさにかけて上陸するもようです。"
+      },
+      {
+        "vietnamese": "Tôi định xin nghỉ suốt từ tháng này đến tháng tới",
+        "japanese": "今月から来月にかけて休暇をとるつもぢだ。"
+      },
+      {
+        "vietnamese": "Suốt một dãi từ miền Hokuriku tới miền Tohoku, đã gánh chịu thiệt hại của trận tuyết lớn",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "北陸から東北にかけての一体が大雪の被害に見舞われた。",
+        "japanese": ""
+      }
+    ],
+    "notes": "Dùng chung cho cả phạm vi và thời gian"
+  },
+  {
+    "id": 77,
+    "pattern": "～からして～",
+    "meaning": "Ngay cả, đến khi…",
+    "explanation": "Ngay cả ~, đến khi ~: đưa ra một ví dụ làm dẫn chứng, và kết luận những cái khác là đương nhiên\nTừ ~: mà phán đoán rằng (chỉ căn cứ của phán đoán)",
+    "examples": [
+      {
+        "vietnamese": "Ngay cả người lãnh đạo cũng không làm thì tôi nghĩ những người khác cũng không muốn làm",
+        "japanese": "リーダーからしてやる気がないのだから、ほかの人たちがやるはずがない。"
+      },
+      {
+        "vietnamese": "Ngay cả trưởng phòng cũng không nắm rõ sự tình, nên nhân viên quèn không hiểu rõ thì cũng phải thôi",
+        "japanese": "課長からして事態を把握していないのだからヒラの社員によくわからないおも無理はない。"
+      },
+      {
+        "vietnamese": "Ngay cả cách nói đó của cậu, tôi cũng có thể cảm nhận có một thành kiến với người ngoại quốc.",
+        "japanese": "その君の言い方からして、外国人に対する偏見が感じられるよ。"
+      }
+    ],
+    "notes": "Trong cách dùng thứ 2 (chỉ căn cứ của phán đoán)からして bằng với ～からすると、～から見て、～から言えば。"
+  },
+  {
+    "id": 78,
+    "pattern": "～ からすると／からすれば",
+    "meaning": "Nhìn từ lập trường",
+    "explanation": "Đối với, nhìn từ lập trường của ~ (đứng từ vị trí đó để bày tỏ quan điểm)\nTừ ~ mà phán đoán rằng (chỉ căn cứ của phán đoán)",
+    "examples": [
+      {
+        "vietnamese": "Căn cứ trên thái độ đó thì dường như cô ấy hoàn toàn không có ý định thoái lui",
+        "japanese": "あの態度からすると、彼女は引き下がる気は全くないようだ。"
+      },
+      {
+        "vietnamese": "Đối với bố mẹ thì dù con cái có lớn tới đâu thì vẫn luôn lo lắng",
+        "japanese": "親からすると、子供はいくつになっても子供で、心配なものだ。"
+      },
+      {
+        "vietnamese": "Nhìn vào bảng thành tích học tập trong 1 năm thì việc thi đậu là chắc rồi",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "この1年間の成績からすると、合格の可能性は十分になる。",
+        "japanese": ""
+      }
+    ],
+    "notes": "Trong cách dùng thứ 2 (chỉ căn cứ của phán đoán) からすると／からすればbằng vớiからして、から見て、から言えば。"
+  },
+  {
+    "id": 79,
+    "pattern": "～ からといって",
+    "meaning": "Vì lí do",
+    "explanation": "Chỉ vì lí do, tuy nhiên, tuy thế mà, không nhất thiết (không thể vì một lý do nào đó mà kết luận hay khẳng định)",
+    "examples": [
+      {
+        "vietnamese": "Cho dù đã lâu thu không tới, cũng không hẳn là bị bệnh",
+        "japanese": "手紙がしばらく来ないからといって、病気だとはかひらないよ。"
+      },
+      {
+        "vietnamese": "Cho dù là mẹ tôi đi nữa thì cũng không được đọc nhật kí của tôi",
+        "japanese": "いくらおふくろだからといって、私の日記を読むなんてゆるせない。"
+      },
+      {
+        "vietnamese": "Không phải cứ có tiền thì ghê gớm lắm",
+        "japanese": "お金があるからといって、偉いわけではない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 80,
+    "pattern": "～ からには",
+    "meaning": "Vì là ~",
+    "explanation": "Vì lý do : nên phía sau là điều đương nhiên hoặc là điều hợp lý phải làm",
+    "examples": [
+      {
+        "vietnamese": "Một khi đã hứa thì phải giữ lời",
+        "japanese": "約束したからにはまもるべきだ。"
+      },
+      {
+        "vietnamese": "Một khi đã chiến đấu thì nhất định sẽ thắng thôi",
+        "japanese": "戦うからには、絶対勝つぞ。"
+      },
+      {
+        "vietnamese": "Bởi vì đã đến nước này rồi nên có lẽ chỉ còn cách khẳng định quyết tâm và kiên trì chiến đấu.",
+        "japanese": "こうなったからは、覚悟を決めて腰をすえて取り組むしかないだろう。"
+      }
+    ],
+    "notes": "Đằng sauからには là một câu về nghĩa vụ, quyết tâm, suy luận, khuyên bảo, mệnh lệnh\nA－なVà N　có thể ở dạngである"
+  },
+  {
+    "id": 81,
+    "pattern": "～からみて（～ から見て）",
+    "meaning": "Nhìn từ, xét theo",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Căn cứ trên thái độ đó thì dường như cô ấy hoàn toàn không có ý định thoái lui",
+        "japanese": "あの態度から見て、彼女は引き下がる気は全くないようだ"
+      },
+      {
+        "vietnamese": "Căn cứ trên cách trả lời lúc nảy, thì dường như tôi bị người đó ghét",
+        "japanese": "さっきに返事のしかたから見て、私はあの人に嫌われているようだ。"
+      },
+      {
+        "vietnamese": "Xét về giọng nói lúc đó thì dường như anh ấy đã biết chuyện đó rồi",
+        "japanese": "あの口ぶりから見て、彼はもうその話を知っているようだな。"
+      }
+    ],
+    "notes": "Mẫu này có nghĩa tương tự với cách dùng thứ nhất của からすると／からすれば"
+  },
+  {
+    "id": 82,
+    "pattern": "～かわりに（～ 代わりに）",
+    "meaning": "Thay vì, đổi lại, mặt khác",
+    "explanation": "Thay vì ~ : không làm ~ mà làm một việc khác\nĐổi lại, thay vào đó: làm một việc và đổi lại một việc khác tương đương với nó\nMặt khác ~ : một mặt trái ngược nhưng hoàn toàn tương xứng với vấn đề",
+    "examples": [
+      {
+        "vietnamese": "Theo dự định thì Yamada sẽ đi họp thay cho tôi",
+        "japanese": "私の代わりに山田さんが会議にでる予定です。"
+      },
+      {
+        "vietnamese": "Mẹ bị sốt nên hôm nay ba sẽ đi đón con thay mẹ",
+        "japanese": "ママは熱があるので、今日はパパが代わりに迎えにいってあげる。"
+      },
+      {
+        "vietnamese": "Thành phố mà tôi mới chuyển công tác đến yên tĩnh và thanh bình nhưng bù lại giao thông lại không tốt",
+        "japanese": "今度転勤して来たこの町は静かでおちついている代わりに交通の便がやや悪い"
+      }
+    ],
+    "notes": "Có thể dùng mẫu này ở dạng そのわかりở đầu câu\nViệc nấu nướng và mua sắm tôi sẽ làm, thay vào đó anh giặt đồ và dọn dẹp\n買い物と料理は私がする。そのわかり、洗濯と掃除お願いね。"
+  },
+  {
+    "id": 83,
+    "pattern": "～ぎみ（～ 気味）",
+    "meaning": "Có vẻ, hơi có, cảm giác là",
+    "explanation": "Diễn tả ý nghĩa “có tình trạng như vậy, có khuynh hướng như vậy”",
+    "examples": [
+      {
+        "vietnamese": "Tôi bị ho, có vẻ hơi bị cảm",
+        "japanese": "ちょっと風邪気味でせきが出る。"
+      },
+      {
+        "vietnamese": "Cô ấy có vẻ hơi căng thẳng",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "彼女は少し緊張気味だった。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Dạo này có vẻ hơi mệt nên công việc không được trôi chảy lắm",
+        "japanese": "ここのところ、少し疲れ気味で、仕事がはかどらない。"
+      }
+    ],
+    "notes": "Thường dùng với trường hợp mang nghĩa xấu"
+  },
+  {
+    "id": 84,
+    "pattern": "～きり／～ きりだ",
+    "meaning": "Sau khi….",
+    "explanation": "Diễn tả tình trạng sau khi làm việc gì đó thì vẫn giữ nguyên tình trạng suốt",
+    "examples": [
+      {
+        "vietnamese": "Cô ấy chỉ mải lo chăm sóc cho 3 đứa con mà không có thời gian cho riêng mình",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "彼女は3人の子供の世話にかかりきり（で）、自分の時間もろくにない。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Cô ấy cứ ở suốt bên cạnh để chăm sóc đứa con bị sốt",
+        "japanese": "熱を出した子供をつき（っ）きりで看病した。"
+      },
+      {
+        "vietnamese": "Sau khi mượn cuốn sách của giáo viên mà vẫn chưa trả lại",
+        "japanese": "先生の本を借りたきり、返していない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 85,
+    "pattern": "～きる／～きれる／～ きれない（切る／切れる／切れない）",
+    "meaning": "Làm cho xong, toàn bộ xong",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Tiêu hết tiền rồi",
+        "japanese": "お金を使い切ってしまった。"
+      },
+      {
+        "vietnamese": "Điều đó có hối tiếc đến đâu vẫn là chưa đủ",
+        "japanese": "それはいくら悔やんでも悔やみきれないことだった。"
+      },
+      {
+        "vietnamese": "Cô ấy cứ khăng khăng nói là mình đúng",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "彼女は絶対に自分が正しいと言い切った。",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 86,
+    "pattern": "～くせに～",
+    "meaning": "Mặc dù, lại còn, ngay cả",
+    "explanation": "Diễn tả tâm trạng khinh miệt, quở trách",
+    "examples": [
+      {
+        "vietnamese": "Trong bụng là thích mà ngoài mặt khăng khăng là ghét",
+        "japanese": "好きなくせに、嫌いだと言いはっている。"
+      },
+      {
+        "vietnamese": "Mặc dù là con nít nhưng ăn nói như là người lớn",
+        "japanese": "子供のくせに大人びたものの言い方する子だな。"
+      },
+      {
+        "vietnamese": "Đừng có phàn nàn, ngay cả bản thân làm không được mà lại…",
+        "japanese": "もんく言うんじゃないの。自分はできないくせに。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 87,
+    "pattern": "～くらい／～ぐらい／～くらいだ／～ ぐらいだ",
+    "meaning": "Khoảng chừng, độ chừng",
+    "explanation": "Nêu lên một ví dụ để trình bày mức độ sự việc",
+    "examples": [
+      {
+        "vietnamese": "Đảo đó có diện tích gấp 3 lần nước này",
+        "japanese": "その島はこの国の3倍くらいの面積がある。"
+      },
+      {
+        "vietnamese": "Mất khoảng 1 tuần lễ để sữa chữa",
+        "japanese": "修理には一週間ぐらいかかります。"
+      },
+      {
+        "vietnamese": "Lúc đó mệt quá đến mức không đi được bước nào",
+        "japanese": "疲れて一歩も歩けないくらいだった。"
+      },
+      {
+        "vietnamese": "Tối thiểu thì anh cũng nên chào hỏi một lời",
+        "japanese": "あいさつぐらいしたらどうだ。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 88,
+    "pattern": "～げ～",
+    "meaning": "Có vẻ…, dường như….",
+    "explanation": "Chỉ trạng thái cảm nhận được về tâm trạng của một người khác",
+    "examples": [
+      {
+        "vietnamese": "Lúc đó người ấy đang chán nản lần giở những trang tạp chí",
+        "japanese": "その人は退屈げに雑誌のページをめくっていた。"
+      },
+      {
+        "vietnamese": "Đâu đó trên khuôn mặt tươi cười của cô ấy thoáng một nét buồn bã",
+        "japanese": "彼女の笑顔にはどこか寂しげなところがあった。"
+      },
+      {
+        "vietnamese": "Tôi để ý cái dáng vẻ của anh ấy như có chứa một ẩn tình gì đấy",
+        "japanese": "彼のそのいわくありげな様子が私には気になった。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 89,
+    "pattern": "～こそ～",
+    "meaning": "Chính là, chính vì…",
+    "explanation": "Thể hiện ý nhấn mạnh",
+    "examples": [
+      {
+        "vietnamese": "Nhờ anh giúp đỡ cho",
+        "japanese": "よろしくお願いします。"
+      },
+      {
+        "vietnamese": "Chính tôi mới là người phải nhờ anh giúp đỡ",
+        "japanese": "こちらこそよろしく。"
+      },
+      {
+        "vietnamese": "Năm nay chính là lúc phải đọc xong cuốn “truyện Genji”",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "今年こそ「源氏物語」を終わりまで読むぞ。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Chỉ bây giờ tôi mới cười nói thế này được, chứ lúc đó tôi đã lo lắng không biết phải làm sao",
+        "japanese": "今でこそ、こうやって笑って話せるが、あの時は本当にどうしようかと思ったよ。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 90,
+    "pattern": "～ことか～",
+    "meaning": "Biết chừng nào, biết bao…",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Anh thử đặt mình vào hoàn cảnh phải ngồi nghe suốt 3 tiếng những việc chẳng ra gì. Anh sẽ thấy khó chịu tới cỡ nào",
+        "japanese": "つまらない話を3時間も聞かされる身にもなってください。どれほど退屈なことか。"
+      },
+      {
+        "vietnamese": "Thế rồi cũng thành công! Tôi đã chờ đợi cái ngày này không biết bao nhiệu năm rồi",
+        "japanese": "とうとう成功した。この日を何年待っていたことか。"
+      },
+      {
+        "vietnamese": "Anh báo thẳng cho cô ấy đi. Không biết cô ấy sẽ vui mừng tới cỡ nào.",
+        "japanese": "それを直接本人に伝えてやってください。どんなに喜ぶことか。"
+      }
+    ],
+    "notes": "Thường được sử dụng đi kèm với các từ nghi vấn 何、なんと、とんなに、どれだけ。"
+  },
+  {
+    "id": 91,
+    "pattern": "～ことから～",
+    "meaning": "Vì…",
+    "explanation": "Với mậu câu [AことからB] thì A sẽ thể hiện lý do, nguyên nhân, căn cứ để nói B",
+    "examples": [
+      {
+        "vietnamese": "Vì ở quê không có trường đại học nên tôi phải lên thành phố học",
+        "japanese": "田舎には大学がありませんことから都市へ学習しました。"
+      },
+      {
+        "vietnamese": "Vùng này vì có nhiều hoa nên cuối tuần thường có nhiều người tới ngắm hoa",
+        "japanese": "この地方には花がたくさんあることから週末多い人を花見ます。"
+      },
+      {
+        "vietnamese": "Vì dãy nhà được bào tồn nguyên như ngày xưa và có nhiều ngôi nhà cổ nên người ta gọi nơi này là phố cổ",
+        "japanese": "町並みが昔のままに保存され、古い家も多いことから、その町は　”古い町”と呼ばれている。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 92,
+    "pattern": "～こととなっている／～ ことになっている",
+    "meaning": "Dự định, quyết định…..",
+    "explanation": "Thường sử dụng để thể hiện nguyên tắc, phong tục xã hội",
+    "examples": [
+      {
+        "vietnamese": "Theo quy định, trường hợp gian lận sẽ bị đánh hỏng",
+        "japanese": "規則では、不正をおこなった場合は失格ということになっている。"
+      },
+      {
+        "vietnamese": "Theo dự định những người tham dự buổi tiệc sẽ hẹn nhau ở ga lúc 6h",
+        "japanese": "パーティーに参加する人は、6時に駅で待ち合わせることになっている。"
+      },
+      {
+        "vietnamese": "Tôi quyết định đi du học từ năm tới",
+        "japanese": "私は来年から留学することになっている"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 93,
+    "pattern": "～ ことに（は）",
+    "meaning": "Thật là….",
+    "explanation": "Nhấn mạnh ở đầu câu dùng để diễn tả tình cảm, cảm xúc",
+    "examples": [
+      {
+        "vietnamese": "Thật là đáng tiếc, khi tôi tìm đến nơi thì người ấy đã dọn nhà đi chỗ khác rồi",
+        "japanese": "残念なことに、私がたずねた時には、その人はもう引っ越したあとだった。"
+      },
+      {
+        "vietnamese": "Thật không ngờ cô ta đã biết chuyện ấy",
+        "japanese": "驚いたことに、彼女はもうその話を知っていた。"
+      },
+      {
+        "vietnamese": "Thật là vui, hôm nay được nhận lương",
+        "japanese": "嬉しいことに、今日は給料をもらっている。"
+      }
+    ],
+    "notes": "Thường dùng với các từ chỉ tình cảm, cảm xúc\n困ったことに：　Thật là khó khăn\nびっくりしたことに：　Thật là bất ngờ\nあきれたことに：　Thật là sốc\n面白いことに：　Thật là thú vị\nありがたいことに：　Thật là biết ơn\n幸いことに：　Thật là hạnh phúc"
+  },
+  {
+    "id": 94,
+    "pattern": "～ことはない／～ こともない",
+    "meaning": "Không cần phải làm…",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Việc gì mà phải lo",
+        "japanese": "心配することはないよ。"
+      },
+      {
+        "vietnamese": "Khi nào gặp khó khăn cứ cho tôi biết, không việc gì phải lo nghĩ một mình",
+        "japanese": "困ったことがあったらいつでも私に言ってね。一人で悩むことはないのよ。"
+      },
+      {
+        "vietnamese": "Anh không phải chịu trách nhiệm một mình",
+        "japanese": "あなたはだけが責任をとることはない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 95,
+    "pattern": "～さいちゅうに（～ 最中に）",
+    "meaning": "Đang trong lúc….",
+    "explanation": "Diễn tả hành động đang diễn ra thì hành động khác cắt ngang",
+    "examples": [
+      {
+        "vietnamese": "Tôi chợt thấy đau bụng ngay trong lúc đang có một cuộc điện thoại quan trọng",
+        "japanese": "大事な電話の最中に、急にお腹が痛くなってきた。"
+      },
+      {
+        "vietnamese": "Đang học thì chợt có chuông báo động reo vang",
+        "japanese": "授業をしている最中に非常ベルが鳴りだした。"
+      },
+      {
+        "vietnamese": "Đang tắm vòi sen thì bị cúp nước",
+        "japanese": "断水の時私はちょうどシャワーの最中ですた。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 96,
+    "pattern": "～ざるをえない（～ ざるを得ない）",
+    "meaning": "Đành phải, buộc phải, chỉ còn cách phải",
+    "explanation": "Dùng để diễn tả không thích, không muốn làm điều gì đó nhưng có lý do nên phải làm\nDiễn tả sự việc không có sự lựa chọn nào khác hơn là phải làm việc đó.",
+    "examples": [
+      {
+        "vietnamese": "Việc đó do thầy đã dặn nên tôi không thể không làm được",
+        "japanese": "先生に言われたことだからやらざるをえない。"
+      },
+      {
+        "vietnamese": "Một chuyện như thế mà lại tin ngay không chút nghi ngờ, thật là chính tôi cũng thừa nhận là mình quá sơ hở",
+        "japanese": "あんな話を信じてしまうとは、我ながらうかつだったこと言わざるを得ない。"
+      },
+      {
+        "vietnamese": "Vì nhà nghèo nên tôi đành phải ngưng lại việc học để đi làm",
+        "japanese": "家が貧しかったので、進学をあきらめて就職せざるを得ない"
+      }
+    ],
+    "notes": "Động từ するchuyển thànhせざるをえない"
+  },
+  {
+    "id": 97,
+    "pattern": "～しかない～",
+    "meaning": "Chỉ là, chỉ còn cách….",
+    "explanation": "Thường sử dụng để biểu thị ý chỉ làm như thế thôi chứ không còn cách nào khác, cũng như không còn khả năng nào khác.",
+    "examples": [
+      {
+        "vietnamese": "Đã đến nước này thì chỉ còn cách gắng sức mà làm, ngoài ra không còn cách nào khác",
+        "japanese": "ここまで来ればもう頑張ってやるしかほかに方法はありませんね。"
+      },
+      {
+        "vietnamese": "Đắt quá, không mua nổi, có lẽ chỉ còn cách là mượn thôi",
+        "japanese": "高すぎて買えないから、借りるしかないでしょう。"
+      },
+      {
+        "vietnamese": "Đã chán trường như thế thì chỉ còn cách bỏ học thôi",
+        "japanese": "そんなに学校がいやならやめるしかない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 98,
+    "pattern": "～じょうは（～ 上は）",
+    "meaning": "Một khi mà….",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Một khi đã làm thì phải cố gắng hết sức",
+        "japanese": "何をする上は、できるだけです。"
+      },
+      {
+        "vietnamese": "Một khi được chọn làm đại diện của trường tôi định dùng hết sức lực và cố gắng",
+        "japanese": "学校の代表に選べれた上は、全力を尽くして頑張るつもりだ。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 99,
+    "pattern": "～せいだ．／～せいで／～ せいか",
+    "meaning": "Tại vì, có phải tại vì",
+    "explanation": "Diễn tả tình trạng nếu làm gì đó thì sẽ có kết quả xấu, hoặc việc đó vì xấu nên thành ra kết quả bị xấu.\nTrường hợp sử dụng đối với hành động của người khác sẽ mang tâm trạng trách móc.",
+    "examples": [
+      {
+        "vietnamese": "Thị lực kém đi là d coi ti vi quá nhiều",
+        "japanese": "目が悪くなったのはテレビを見すぎたせいだ。"
+      },
+      {
+        "vietnamese": "Chắc là do tuổi tác chăng, dạo này tôi dễ bị mệt",
+        "japanese": "歳のせいか、この頃疲れやすい。"
+      },
+      {
+        "vietnamese": "Mọi người đã không kịp đáp chuyến tàu tốc hành Shinkansen vì có 3 người đến trễ",
+        "japanese": "3人が遅刻したせいで、皆新幹線に乗れなかった。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 100,
+    "pattern": "～どころか～",
+    "meaning": "Thay vì…ngược lại",
+    "explanation": "Dùng khi muốn nói không phải ở mức độ như thế mà còn hơn nữa hoặc vấn đề đó hoàn toàn khác, ngược lại với….",
+    "examples": [
+      {
+        "vietnamese": "Mưa bão không yếu đi mà trái lại ngày càng to hơn",
+        "japanese": "風雨は弱まるどころか、ますます激しくなる一方だった。"
+      },
+      {
+        "vietnamese": "Tôi không có bệnh ngược lại hãy còn sung sức lắm",
+        "japanese": "病気どころか、ぴんぴんしている。"
+      },
+      {
+        "vietnamese": "Cô ấy không có yên lặng, nói nhiều nữa là đằng khác.",
+        "japanese": "彼女は静かなどころか、すごいおしゃべりだ"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 101,
+    "pattern": "～ どころではない",
+    "meaning": "Không phải lúc để.., không thể…",
+    "explanation": "Diễn tả có lý do quan trọng hơn lúc này nên không thể",
+    "examples": [
+      {
+        "vietnamese": "Suốt 1 tháng nay liên tục không có khách đến thăm, không học gì được",
+        "japanese": "この1ヶ月は来客が続き、勉強どころではなかった。"
+      },
+      {
+        "vietnamese": "Thời tiết xấu như thế này không phải lúc đi tắm biển",
+        "japanese": "こう天気が悪くては海水浴どころではない。"
+      },
+      {
+        "vietnamese": "Công việc còn nhiều, không phải lúc uống rượu",
+        "japanese": "仕事が残っていて、酒を飲んでいるどころではないんです。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 102,
+    "pattern": "～ないばかりか～",
+    "meaning": "Không những không….",
+    "explanation": "Diễn đạt ý nghĩa không chỉ không…mà còn\nDiễn tả tình trạng không những …..không đạt mà ngay cả mức tối thiểu/ mức thấp hơn cũng không đạt.",
+    "examples": [
+      {
+        "vietnamese": "Mặc dù cô ấy đến trường không những không lo học mà cứ nói chuyện suốt",
+        "japanese": "彼女は学校へ来ても勉強をしないばかりかしゃべってばかりいる。"
+      },
+      {
+        "vietnamese": "Việt Nam có dầu hỏa, không những số lượng ít mà chất lượng cũng kém",
+        "japanese": "ベトナムでも石油が出ることは出るか、量が少ないばかりか質も悪い。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 103,
+    "pattern": "～にきまってる（～ に決まってる）",
+    "meaning": "Nhất định là…",
+    "explanation": "Dùng để khẳng định việc gì đó nhất định là…, đương nhiên là….",
+    "examples": [
+      {
+        "vietnamese": "Kẻ làm trò chọc phá này nhất định là hắn ta",
+        "japanese": "こんないたずらをするのはあいつに決まっている。"
+      },
+      {
+        "vietnamese": "Nhất định là anh ấy cũng muốn tham gia",
+        "japanese": "きっと彼も参加したがるに決まっている"
+      },
+      {
+        "vietnamese": "Nếu nói điều ấy ra, nhất định cô ấy sẽ buồn lòng",
+        "japanese": "そんなことを言ったら彼女が気を悪くするに決まっているじゃないか"
+      }
+    ],
+    "notes": "Thường được dùng trong văn nói\nAnh ta nhất định sẽ thua.\n彼は負けるに決まっている。"
+  },
+  {
+    "id": 104,
+    "pattern": "～にくらべて（～ に比べて）",
+    "meaning": "So với…",
+    "explanation": "Diễn đạt mức độ khác nhau so với…lấy làm chuẩn",
+    "examples": [
+      {
+        "vietnamese": "So với mọi năm thì năm nay thu hoạch rau cải tốt",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "例年に比べて今年は野菜の出来がいい。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "So với Tokyo thì Osaka vật giá rẻ hơn",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "東京に比べると大阪の方が物価が安い。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "So với nam giới thì nữ giới có tình mềm mỏng hơn",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "男性に比べて女性の方が柔軟性がある。",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 105,
+    "pattern": "～にくわえて（～ に加えて）",
+    "meaning": "Thêm vào, cộng thêm, không chỉ…và còn",
+    "explanation": "Diễn tả thêm vào đó là, dùng khi muốn nêu lên hơn 1 lý do",
+    "examples": [
+      {
+        "vietnamese": "Cộng với gió lạnh, mưa cũng đã dữ dội hơn",
+        "japanese": "激しい風に加えて、雨もひどくなってきた。"
+      },
+      {
+        "vietnamese": "Thêm vào bài làm ở nhà mỗi ngày, mỗi tuần học sinh phải nộp báo cáo",
+        "japanese": "学生たちは毎日の宿題に加えて毎週レポートを出さなければならなかった。"
+      },
+      {
+        "vietnamese": "Giá điện rồi đến giá ga cũng tăng lên",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "電気代に加えて，ガス代まで値上がありした",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 106,
+    "pattern": "～にこたえる～",
+    "meaning": "Đáp ứng, đáp lại",
+    "explanation": "Diễn tả đáp lại lòng mong mỏi, lời đề nghị của / về….",
+    "examples": [
+      {
+        "vietnamese": "Anh ta đã trình diễn hoàn hảo đáp ứng lại sự cổ vũ của khán giả",
+        "japanese": "多くのワァンの声援にこたえる完璧なプルーをなしとげた。"
+      },
+      {
+        "vietnamese": "Đáp ứng nhu cầu của sinh viên chúng tôi quyết định mở cửa thư viện cả ngày chủ nhật",
+        "japanese": "多数の学生の要望にこたえまして、日曜日も図書館を開館することにしました。"
+      },
+      {
+        "vietnamese": "Anh vận động viên đó đã hoàn thành cuộc chạy đua một cách ngoạn mục, đáp ứng kỳ vọng của che mẹ",
+        "japanese": "その選手は両親の期待にこたえてみごとに完走した。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 107,
+    "pattern": "～にさきだつ（～ に先立つ）",
+    "meaning": "Trước khi…",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Trước khi làm thí nghiệm tôi đã tiến hành kiểm tra kĩ lưỡng",
+        "japanese": "実験に先立ち、入念なチェッくを行った。"
+      },
+      {
+        "vietnamese": "Trước khi xuất trận họ đã cầu trời",
+        "japanese": "出陣に先立ち神に祈りをささげた。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 108,
+    "pattern": "～にさいし（て）（～ に際し（て）)",
+    "meaning": "Khi, trường hợp, nhân dịp",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Nhân dịp sát nhập lần này, người ta đã tiến hành sự hợp lí hóa một cách đại quy mô",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "今回の合併に際し、大規模な合理化が行われた。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Nhân dịp chia tay tôi xin gửi lời chào tới toàn thể quý vị",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "お別れに際して一言ご挨拶を申し上げます。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Nhân dịp chuyến thăm Nhật đầu tiên này, Tổng thống đã dẫn theo đoàn đại biểu thông thương",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "今回の初来日際して、大統領は通商代表段を伴ってきた。",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 109,
+    "pattern": "～にしろ／～ にせよ",
+    "meaning": "Cho dù…thì cũng, dẫu cho….thì cũng",
+    "explanation": "Dù đến dù không tôi cũng muốn anh báo qua cho tôi biết\n来るにせよ来ないにせよ、連絡ぐらいはしてほしい。\nĐằng nào thì cũng phải kiểm tra thêm một lần nữa\nいずれにせよもう一度検査をしなければならない。\nCho dù thông qua phương án nào đi nữa, thì cũng cần giải thích đầy đủ cho các thành viên\nどちらの案を採用するにしろ，メンバーには十分な説明をする必要がある。",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": 110,
+    "pattern": "～にそういない～（～ に相違ない）",
+    "meaning": "Chắc chắn là, đúng là….",
+    "explanation": "Thể hiện sự trang trọng",
+    "examples": [
+      {
+        "vietnamese": "Thủ phạm đúng là gã đàn ông đó",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "犯人はあの男に相違ない",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Cô ấy đi vắng từ 3 hôm trước, nay vẫn chưa về, chắc đã về quê rồi",
+        "japanese": "彼女は3日前に家を出だまま帰ってこない。きっと田舎へ行ったにそういない。"
+      },
+      {
+        "vietnamese": "Nếu biết chuyện này chắc anh ấy sẽ giận sôi lên",
+        "japanese": "これを知ったら、彼はきっと烈火のごとく怒り出すに相違ない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 111,
+    "pattern": "～にそって（～ に沿って）",
+    "meaning": "Theo, tuân theo",
+    "explanation": "",
+    "examples": [
+      {
+        "vietnamese": "Dọc theo bờ sông là những hàng cây anh đào",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "川岸に沿って、桜並木が続いていた。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Hoa được trồng dọc theo hàng rào này, dù trong bóng râm vẫn lớn lên tươi tốt",
+        "japanese": "この塀に沿って植えてある花は、日陰でもよく育つ。"
+      },
+      {
+        "vietnamese": "Hãy làm theo trình tự đã ghi",
+        "japanese": "書いてある手順に沿ってやってください。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 112,
+    "pattern": "～ につき",
+    "meaning": "Vì…",
+    "explanation": "Thường sử dụng để ghi chú thích, lưu ý của cửa tiệm",
+    "examples": [
+      {
+        "vietnamese": "Ngày mai là chủ nhật nên chúng tôi xin nghĩ",
+        "japanese": "明日は日曜日につき、お休みさせてください。"
+      },
+      {
+        "vietnamese": "Vì trời mưa nên trận đấu hôm nay được hủy bỏ",
+        "japanese": "雨天につき、試合は中止といたします。"
+      },
+      {
+        "vietnamese": "Cha tôi vì tuổi già nên được phép ngưng tham gia",
+        "japanese": "父は高齢につき参加をとりやめさせていただきます。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 113,
+    "pattern": "～にほかならない～",
+    "meaning": "Chính là, không gì khác hơn là….",
+    "explanation": "Dùng trong trường hợp muốn nói lên sự khẳng định “ngoài cái đó ra không còn cái nào khác”, “chính là cái đó”\nDùng để khẳng định rằng “lý do hoặc nguyên nhân khiến cho một chuyện gì đó xảy ra chính là cái đó, ngoài cái đó ra không còn nguyên nhân nào khác”",
+    "examples": [
+      {
+        "vietnamese": "Sỡ dĩ hội này đã có thể thành công, chính là do có sự hợp tác quý báu của quý vị",
+        "japanese": "この会を成功のうちに終わらせることが出来ましたのは、皆様がたのご協力のたまものにほかなりません。"
+      },
+      {
+        "vietnamese": "Sở sĩ anh ấy ghét tôi chính là vì anh ấy ganh tị với thành tích của tôi",
+        "japanese": "彼が私を憎むのは、私の業績をねたんでいるからに他ならない。"
+      },
+      {
+        "vietnamese": "Sở dĩ tôi có thể vùi đầu vào công việc như thế này là do có gia đình nâng đỡ",
+        "japanese": "この仕事にこんなにも打ち込むことができたのは、家族が支えていてくれたからにほかならない。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 114,
+    "pattern": "～にもかかわらず～",
+    "meaning": "Bất chấp, mặc dù",
+    "explanation": "Diễn tả ý nghĩa “mặc dù tình thế như thế”. Theo sau là cách nói diễn tả một tình trạng hoàn toàn ngược lại với kết quả đương nhiên dựa trên tình huống đó.",
+    "examples": [
+      {
+        "vietnamese": "Mặc dù cố gắng đến như thế , rốt cuộc tôi đã thất bại hoàn toàn",
+        "japanese": "あれだけ努力したにもかかわらず、すべて失敗に終わってしまった。"
+      },
+      {
+        "vietnamese": "Mặc dù nội quy là cấm nhưng nó vẫn đi học bằng xe máy",
+        "japanese": "規則で禁止されているにもかかわらず、彼はバイクで通学した。"
+      },
+      {
+        "vietnamese": "Mặc dù thời tiết xấu, nhưng tôi vẫn thành công trong việc leo lên tới đỉnh một cách bình yên",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "悪条件にもかかわらず、無事登頂に成功した。",
+        "japanese": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 115,
+    "pattern": "～ぬく（～ 抜く）",
+    "meaning": "Tới cùng",
+    "explanation": "Làm xong tất cả và trọn vẹn một quá trình hay một hành động",
+    "examples": [
+      {
+        "vietnamese": "Tuy vất vả nhưng tôi đã chạy tới cùng",
+        "japanese": "苦しかったが最後まで走りぬいた。"
+      },
+      {
+        "vietnamese": "Một khi bắt đầu thì đừng bỏ cuộc mà hãy làm tới cùng",
+        "japanese": "一度始めたからには、あきらめずに最後までやり抜こう。"
+      },
+      {
+        "vietnamese": "Vì đây là quyết tâm mà tôi đã suy nghĩ cặn kẽ, nên dứt khoát không có chuyện thay đổi",
+        "japanese": "考え抜いた結果の決心だからもう変わることはない。"
+      }
+    ],
+    "notes": "Nhấn mạnh nghĩa hoàn thành sau khi chịu đựng gian khổ."
+  },
+  {
+    "id": 116,
+    "pattern": "～のもとで／～もとに　（～ の下で／下に）",
+    "meaning": "Dưới sự",
+    "explanation": "Nのもとで “dưới sự chi phối của”, “trong phạm vi chịu ảnh hưởng của”\nNもとに “trong điều kiện”, “trong tình huống”",
+    "examples": [
+      {
+        "vietnamese": "Đối với trẻ con , được tung tăng nô đùa thỏa thích dưới ánh nắng mặt trời là tốt nhất",
+        "japanese": "子供は太陽のもとで思いきりはねまわるのが一番だ。"
+      },
+      {
+        "vietnamese": "Dưới sự chỉ dẫn nhiệt tình của thầy giáo, các em học sinh đã tạo ra những tác phẩm đầy cá tính của mình",
+        "japanese": "先生の暖かい指導のもとで、生徒たちは伸び伸びと自分らしい作品を作り出していった。"
+      },
+      {
+        "vietnamese": "Được sự chấp thuận của bố mẹ tôi có thể đi du học 3 năm",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "両親の了解のもとに3年間の留学が可能になった。",
+        "japanese": ""
+      }
+    ],
+    "notes": "Cách nói trang trọng mang tính văn viết"
+  },
+  {
+    "id": 117,
+    "pattern": "～すえ（～ 末）",
+    "meaning": "Sau khi, sau một hồi…",
+    "explanation": "Sau khi trải qua một quá trình nào đó, cuối cùng đã",
+    "examples": [
+      {
+        "vietnamese": "Ông ấy đã qua đời sau 3 năm chống chọi với bệnh tật",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "彼は3年の闘病生活の末になくなった。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Chuyện này tôi đã quyết định sau một thời gian dài suy nghĩ rất kỹ",
+        "japanese": "よく考えた末に決めたことです。"
+      },
+      {
+        "vietnamese": "Cuối tháng này Thủ tướng sẽ đi thăm Trung Quốc",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "今月の末に首相が訪中する。",
+        "japanese": ""
+      }
+    ],
+    "notes": "Thường dùng trong văn viết, thể hiện câu văn cứng"
+  },
+  {
+    "id": 118,
+    "pattern": "～まい～",
+    "meaning": "Không, chắc là không",
+    "explanation": "Diễn đạt ý chí 「しない」(không làm) của người nói\nCó ý nghĩa 「ないだろう」(chắc là không), biểu đạt sự suy đoán của người nói.",
+    "examples": [
+      {
+        "vietnamese": "Không bao giờ uống rượu nữa",
+        "japanese": "酒はもう二度と飲むない。"
+      },
+      {
+        "vietnamese": "Tôi quyết định không muốn làm mẹ buồn nên không báo tin đó cho mẹ biết",
+        "japanese": "母を悲しませまいと思ってそのことは知らせずにおいた。"
+      }
+    ],
+    "notes": "Đối với động từする、くる cũng được sử dụng thànhする→しまい、くる→こまい。"
+  },
+  {
+    "id": 119,
+    "pattern": "～まいか～",
+    "meaning": "Chắc là, chẳng phải là…hay sao, quyết không",
+    "explanation": "Cách nói suy đoán, nghĩa là “không phải như vậy sao”",
+    "examples": [
+      {
+        "vietnamese": "Anh ấy trông trẻ vậy, nhưng thực ra chắc cũng nhiều tuổi rồi",
+        "japanese": "彼は若くみえるが、本当はかなりの年輩なのではあるまいか。"
+      },
+      {
+        "vietnamese": "Anh Sato làm ra vẻ không biết nhưng thực ra anh ấy đã biết hết rồi",
+        "japanese": "佐藤さんは知らないふりをしているが、全部わかっているのではあるまいか。"
+      },
+      {
+        "vietnamese": "Việc chỉ cói trọng kiến thức chẳng phải là một khiếm khuyết lớn trong cơ chế thi cử hiện nay sao?",
+        "japanese": "知識のみを偏重してきたことは、現在の入試制度の大きな欠陥ではあるまいか。"
+      }
+    ],
+    "notes": "Là cách nói trang trọng dùng trong văn viết\nChỉ ý muốn phủ định, ý chí muốn từ bỏ\nChủ ngữ được sử dụng ở ngôi thứ 1. Nếu là ngôi thứ 3 thì dùng まいと思っているらしい／まいと思っているようだ。"
+  },
+  {
+    "id": 120,
+    "pattern": "～わりに～",
+    "meaning": "So với…, thì tương đối…",
+    "explanation": "Sử dụng với ý ” nếu so với dự đoán, hiểu biết thông thường thì”…., khi sự vật không theo đúng chuẩn mực, với ý tốt lẫn không tốt.",
+    "examples": [
+      {
+        "vietnamese": "Nhà hàng đấy làm các món ăn tương đối ngon so với giá bán",
+        "japanese": "あのレストランは値段のわりにおいしい料理を出す。"
+      },
+      {
+        "vietnamese": "Cái ghế này so với giá bán cao như thế, thì tương đối khó ngồi",
+        "japanese": "このいすは値段が高いわりには、座りにくい。"
+      },
+      {
+        "vietnamese": "So với cơ thể gầy gò thì anh ấy khá là khỏe",
+        "japanese": "あの人は細いわりに力がある。"
+      }
+    ],
+    "notes": "Thường không dùng trong những câu văn trang trọng"
+  },
+  {
+    "id": 121,
+    "pattern": "～をきっかけて～",
+    "meaning": "Nhân cơ hội, nhân dịp một sự việc nào đó",
+    "explanation": "Biểu thị rằng từ một việc ngẫu nhiên mà có gì đó bắt đầu, thay đổi",
+    "examples": [
+      {
+        "vietnamese": "Cô ấy nhân dịp tốt ngiệp đã cắt tóc",
+        "japanese": "彼女は卒業をきっかけに髪を切った。"
+      },
+      {
+        "vietnamese": "Anh ấy từ khi đi làm đã thay đổi lối sống",
+        "japanese": "彼は、就職をきっかけにして、生活を変えた。"
+      },
+      {
+        "vietnamese": "Nhân dịp này mong anh từ nay quan tâm giúp đỡ",
+        "japanese": "これをきっかけに今後ともよろしくお願いいたします。"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 122,
+    "pattern": "～をけいきとして～",
+    "meaning": "（～を契機として）：　Nhân cơ hội",
+    "explanation": "Biểu hiện thay đổi lớn từ một sự việc nhất định",
+    "examples": [
+      {
+        "vietnamese": "Cô ấy đã rời xa cha mẹ từ khi vào đại học",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "彼女は大学入学を契機として親元を出た。",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "Nhân cơ hổi đi làm anh ta đã thay đổi hoàn toàn lối sống của mình",
+        "japanese": "彼は就職を契機として生活スタイルをガラリと変えた。"
+      },
+      {
+        "vietnamese": "Người ta nói từ khi Nhật Bản bại trận, đã chuyển sang một quốc gia có chủ quyền thuộc về nhân dân",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "日本は敗戦をけいきとして国民主権国家へと転換したと言われている。",
+        "japanese": ""
+      }
+    ],
+    "notes": "Đây là từ dùng trong văn viết, cách nói trang trọng hơn của「～をきっかけに」"
+  },
+  {
+    "id": 123,
+    "pattern": "～をこめて～",
+    "meaning": "Dồn cả, với tất cả, chứa chan",
+    "explanation": "Gửi gắm tâm tư, tình cảm, cảm xúc vào một việc nào đó.",
+    "examples": [
+      {
+        "vietnamese": "Anh xin tặng em đóa hoa này với tất cả tình yêu vĩnh viện không thay đổi",
+        "japanese": "この花を、永遠に変わらぬ愛を込めてあなたに贈ります。"
+      },
+      {
+        "vietnamese": "Nghe nói cố ấy đã sáng tác bài hát ấy với tất cả tình yêu quê hương",
+        "japanese": "彼女は、望郷の思いを込めてその歌を作ったそうだ。"
+      },
+      {
+        "vietnamese": "Tôi đã đen áo len cho mẹ với tất cả lòng thành",
+        "japanese": "母親のために心をこめてセーターを編んだ。"
+      }
+    ],
+    "notes": "Cũng có trường hợp bổ nghĩa cho danh từ với hình thức sau:\n（N)　～をこめた（N)\n（N)　～をこもったて（N)　Cách thường được sử dụng nhiều hơn"
+  },
+  {
+    "id": 124,
+    "pattern": "～をめぐる～",
+    "meaning": "Xoay quanh",
+    "explanation": "Dùng để thâu tóm những sự kiện xung quanh có liên quan đến sự việc",
+    "examples": [
+      {
+        "vietnamese": "Xung quanh vấn đề sửa đổi Hiến pháp, tại quốc hội đang có nhiều cuộc tranh cãi kịch liệt",
+        "japanese": "憲法の改正をめぐって国会で激しい論議が闘わされている。"
+      },
+      {
+        "vietnamese": "Xung quanh vấn đề nhân sự, không khí trong công ti đã trở nên căng thẳng",
+        "japanese": ""
+      },
+      {
+        "vietnamese": "人事をめぐって、社内は険悪な雰囲気となった。",
+        "japanese": ""
+      }
+    ],
+    "notes": "Khi bổ nghĩa cho một số câu sẽ có dạng\nNをめぐって～\nDùng trong văn viết có dạng\nNをめぐり～\nNhững động từ đi kèm giới hạn trong những dạng như議論する、議論を闘わす、うわさが流れる、紛糾する (tranh luận, tranh cãi, có tin đồn, tình hình lộn xộn) tức là phải thể hiện việc có nhiều người tranh luận, bàn tán"
+  },
+  {
+    "id": 125,
+    "pattern": "～をもとにして（～ を元にして）",
+    "meaning": "Dựa trên, căn cứ trên",
+    "explanation": "Lấy một sự vật, sự việc làm căn cứ, cơ sở, tư liệu cho phán đoán",
+    "examples": [
+      {
+        "vietnamese": "Tôi đã viết xong một tác phẩm lấy dữ liệu từ sự thật lịch sử",
+        "japanese": "史実をもとにした作品を書き上げた。"
+      },
+      {
+        "vietnamese": "Chỉ dựa trên lời bàn tán mà phán đoán về một người là không tốt",
+        "japanese": "人のうわさだけを元のして人を判断するのはよくない。"
+      },
+      {
+        "vietnamese": "Tôi viết kịch bản dựa trên một chuyện đã xảy ra trong thực tế",
+        "japanese": "実際にあった話をもとにして脚本を書いた"
+      }
+    ],
+    "notes": "Đây là lối nói nhẹ hơn của「にもと(基）づいて」"
+  }
+]
